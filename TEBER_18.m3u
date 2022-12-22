@@ -308,15 +308,14 @@ http://50.7.136.162:1935/canlitv/yarentv/chunklist.m3u8
 -----KOMEDİ------------
 
 #EXTINF:-1,KEMAL SUNAL TV 1
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/69443.ts
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/80
 #EXTINF:-1,KEMAL SUNAL TV 2
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/69444.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 3 ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/78
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 4 ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/79
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 5 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/80
+
 #EXTINF:-1,Anonym TV Zeki Metin
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125748
 #EXTINF:-1,Anonym TV  Şener Şen HD
@@ -500,8 +499,7 @@ http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/83142.ts
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/40
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Komedi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/KOMEDI.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Komedi ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/41
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Bilim Kurgu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/BILIM.KURGU.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Bilim Kurgu ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/42
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Suç ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/SUC.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Suç ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/43
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Dram ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/DRAM.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Dram ʜᴅ
