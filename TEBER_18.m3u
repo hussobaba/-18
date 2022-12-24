@@ -57,11 +57,14 @@ https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagro
 #EXTINF:0 type="stream" channelId="4005" group-title="2_ÖZEL_MEDYA_1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", EM TV 
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 
-#EXTINF:1, YANSIMA SiNEMA HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+#EXTINF:1, YANSIMA SiNEMA TV
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 
-#EXTINF:1, YANSIMA CLASSiC HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w18062564.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA CLASSİC TV
+https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, YANSIMA MÜZİK TV
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,TARİH TV
 https://bit.ly/3e6ppYK
