@@ -24,6 +24,8 @@ https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD
 http://135.125.234.9:8081/tele1/index.m3u8
 
+#EXTINF:-1,Tv1
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 #EXTINF:0,KRT TV
 
 http://135.125.234.9:8081/krttv/index.m3u8
@@ -18598,6 +18600,3 @@ http://5.254.16.186:80/TRTMuzik/mono.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
-
-
-
