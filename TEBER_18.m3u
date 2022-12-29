@@ -11,11 +11,11 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR",TRT 4K 2160p
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/8725.ts
-
 #EXTINF:362,TRT 4K 1080p
 http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
+
+#EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR",TRT4 8K 2160p
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/8725.ts
 
 #EXTINF:0 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
