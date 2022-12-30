@@ -100,6 +100,9 @@ https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 #EXTINF:1,Anadolu Dost Tv
 https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1433375139.m3u8
 
+#EXTINF:-1,BİR TV HD
+https://h59.artiyerelmedya.net/tr35/bant1/chunks.m3u8
+
 #EXTINF:-1,TELE 1 HD
 http://31.223.85.34:9999/play/a09d/index.m3u8
 
@@ -148,6 +151,9 @@ http://31.223.85.34:9999/play/a086/index.m3u8
 #EXTINF:-1,TEVE63
 http://31.223.85.34:9999/play/a08l/index.m3u8
 
+#EXTINF:-1,TV35
+https://stream01.tv35.com.tr/hls2/tv35izmir.m3u
+
 #EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV FHD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 
@@ -167,8 +173,7 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a
 #EXTINF:-1 tvg-id="tv4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo.png" group-title="ULUSAL",TV 4 fhd
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| KANAL1 HT HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bloombeerg_ht.png" group-title="| TR | HABER",|TR| KANAL1 HD
-http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110140
+
 
 #EXTINF:-1,İKRA
 http://31.223.85.34:9999/play/a06m/index.m3u8
