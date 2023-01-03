@@ -1,25 +1,3 @@
-#EXTM3U
-
-----ULUSAL----
-
-#EXTINF:0 type="stream" channelId="1056" group="TRT MEDYA_iPTV_KANALLAR", TRT 1 HD
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,TRT2 HD
-http://95.70.252.86:8000/play/a01z
-
-#EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:362,TRT 4K 1080p
-http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
-
-#EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR",TRT4 8K 2160p
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/8725.ts
-
-#EXTINF:0 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:1, TiVi 6 HD
 https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 
@@ -38,12 +16,10 @@ http://31.223.85.34:9999/play/a05q/index.m3u8
 #EXTINF:32,A2
 http://bit.ly/3KRZDDB
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel",STAR TV 
-
+#EXTINF:-1,TR:STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1,TR: EURO STAR
 http://31.223.85.34:9999/play/a05p/index.m3u8
-
-
 #EXTINF:-1,SHOW HD
 http://31.223.85.34:9999/play/a06a/index.m3u8
 #EXTINF:-1,SHOW TURK HD
