@@ -87,7 +87,10 @@ https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/chunks.m3u8
 
-#EXTINF:1,TEBER CEYHAN TV
+#EXTINF:1,VRT HD 
+https://live-server-2.splitstream.io/f0157c32-46c7-4260-a91b-ffa16eaf596d/tracks-v1a1/mono.m3u8
+
+#EXTINF:1,TEBER Y.GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
 
 #EXTINF:1,KANAL 18
@@ -130,6 +133,7 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel",ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
 #EXTINF:1,Metropol Tv
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
 
