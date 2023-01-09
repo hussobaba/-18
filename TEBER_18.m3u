@@ -570,9 +570,6 @@ http://31.223.85.34:9999/play/a05w/index.m3u8
 #EXTINF:-1,TLC HD
 http://31.223.85.34:9999/play/a05x/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="iPTV_KANALLAR", VRT HD 
-https://live-server-2.splitstream.io/f0157c32-46c7-4260-a91b-ffa16eaf596d/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV FHD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 
@@ -628,8 +625,6 @@ https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist_w656535413.m3u8
 
 #EXTINF:1,Fark türk  
 http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
-
-
 
 #EXTINF:1,AKTİF TV
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
@@ -762,8 +757,6 @@ http://31.223.85.34:9999/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
 https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-
-
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺
 https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001176/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001176&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -797,17 +790,14 @@ http://50.7.136.162:1935/canlitv/tv2020/chunklist.m3u8| User-Agent=Lavf53.32.100
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3df5795-0bd7-4c41-b5e6-8a60c640ac9b.png" group-title="ULUSAL",TV 15
 http://50.7.136.162:1935/canlitv/torbatv/chunklist.m3u8| User-Agent=Lavf53.32.100  
   
-
 #EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV 52 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="ULUSAL",A52 ᴴᴰ
 http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" group-title= "ULUSAL",TV 48 ᴴᴰ
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,G.KRALLAR ᴴᴰ
 http://tv56245.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8    
-
 
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8| User-Agent=Lavf53.32.100 
@@ -852,7 +842,305 @@ https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch0000009099
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
 https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001262/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001262&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="::.:: BeIN & DSMART FILM ::.::" tvg-logo="http://iptvhdtr.com/Logolar/tr/ulusal/tr.png" group-title="TR - SINEMA",::.:: BeIN & DSMART FILM ::.::
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/7843
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN BOX OFFICE 1 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/boxoffice1hd.png" group-title="TR - SINEMA",TR: beIN BOX OFFICE 1 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/88705
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: beIN BOX OFFICE 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/boxoffice2hd.png" group-title="TR - SINEMA",TR: beIN BOX OFFICE 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/88704
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: beIN BOX OFFICE 3 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/boxoffice3hd.png" group-title="TR - SINEMA",TR: beIN BOX OFFICE 3 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/88703
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN BOX OFFICE Turk HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-turkhd.png" group-title="TR - SINEMA",TR: beIN BOX OFFICE Turk HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/88702
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN MOVIES ACTION HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-acitonhd.png" group-title="TR - SINEMA",TR: beIN MOVIES ACTION HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62015
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-aciton2fhd.png" group-title="TR - SINEMA",TR: beIN MOVIES ACTION 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62014
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: beIN MOVIES FAMILY HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-familyhd.png" group-title="TR - SINEMA",TR: beIN MOVIES FAMILY HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62011
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN MOVIES PREMIER HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-premiere1hd.png" group-title="TR - SINEMA",TR: beIN MOVIES PREMIER HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62013
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN MOVIES PREMIER 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-premiere2hd.png" group-title="TR - SINEMA",TR: beIN MOVIES PREMIER 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62012
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-starshd.png" group-title="TR - SINEMA",TR: beIN MOVIES STARS HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62010
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: beIN SERIES COMEDY HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinseries-comedy.png" group-title="TR - SINEMA",TR: beIN SERIES COMEDY HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62006
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: beIN SERIES DRAMA HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinseries-drama.png" group-title="TR - SINEMA",TR: beIN SERIES DRAMA HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62007
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: beIN SERIES SCI-FI HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinseries-sci-fihd.png" group-title="TR - SINEMA",TR: beIN SERIES SCI-FI HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62009
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: beIN SERIES VICE HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinseries-vicehd.png" group-title="TR - SINEMA",TR: beIN SERIES VICE HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62008
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Movies Turk HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/beinmovies-turkhd.png" group-title="TR - SINEMA",TR: beIN Movies Turk HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/62016
+#EXTINF:-1 tvg-id="" tvg-name="::..:: 7/24 SINEMA ::..::" tvg-logo="http://portal.bylr-tv.com:8080/images/5ece7efa7add803f19d29fffaf6bd08a.png" group-title="TR - SINEMA",::..:: 7/24 SINEMA ::..::
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149108
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1 HD" tvg-logo="http://portal.dm-lv.com:8080/images/e1e9997296a536122c48254a85420d7e.png" group-title="TR - SINEMA",TR: BEIN BOX OFFICE 1 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149109
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2 HD" tvg-logo="http://portal.dm-lv.com:8080/images/86a9810b4a4a68ca392438d0df98628b.png" group-title="TR - SINEMA",TR: BEIN BOX OFFICE 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149110
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3 HD" tvg-logo="http://portal.dm-lv.com:8080/images/844d48f04e25055317b840e8c4d52020.png" group-title="TR - SINEMA",TR: BEIN BOX OFFICE 3 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149111
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN DIZI TV" tvg-logo="http://portal.dm-lv.com:8080/images/c5e765433078e114a959d4352782e568.png" group-title="TR - SINEMA",TR: EXXEN DIZI TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149112
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SHOW TV" tvg-logo="http://portal.dm-lv.com:8080/images/43f21ca3650e69077ede7231efa2c846.png" group-title="TR - SINEMA",TR: EXXEN SHOW TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149113
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN KONUSANLAR TV" tvg-logo="http://portal.dm-lv.com:8080/images/c44d4d73d7a084877695a459e8af6ae1.png" group-title="TR - SINEMA",TR: EXXEN KONUSANLAR TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149114
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN O SES TURKIYE RAP TV" tvg-logo="http://portal.dm-lv.com:8080/images/9c57639984a34e80d6b8235ff17774af.png" group-title="TR - SINEMA",TR: EXXEN O SES TURKIYE RAP TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149115
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN TOLGSHOW TV" tvg-logo="http://portal.dm-lv.com:8080/images/c5e765433078e114a959d4352782e568.png" group-title="TR - SINEMA",TR: EXXEN TOLGSHOW TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149116
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FHD" tvg-logo="http://portal.dm-lv.com:8080/images/c31bd8652a8acba633141d21998cfd39.png" group-title="TR - SINEMA",TR: FILMBOX FHD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149117
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ARTHOUSE FHD" tvg-logo="http://portal.dm-lv.com:8080/images/c31bd8652a8acba633141d21998cfd39.png" group-title="TR - SINEMA",TR: FILMBOX ARTHOUSE FHD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149118
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX EXTRA FHD" tvg-logo="http://portal.dm-lv.com:8080/images/c31bd8652a8acba633141d21998cfd39.png" group-title="TR - SINEMA",TR: FILMBOX EXTRA FHD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149119
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU TV PLAY 1 FHD" tvg-logo="http://portal.dm-lv.com:8080/images/d3c22201694e24fd8f13fb2c19f8c4aa.png" group-title="TR - SINEMA",TR: BLU TV PLAY 1 FHD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149120
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU TV PLAY 2 FHD" tvg-logo="http://portal.dm-lv.com:8080/images/beed2559487520979d810f397742959a.png" group-title="TR - SINEMA",TR: BLU TV PLAY 2 FHD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149121
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yesilcam 1" tvg-logo="http://portal.bylr-tv.com:8080/images/aa239781b756704c855934aa88b027f0.png" group-title="TR - SINEMA",TR: LionBox Yesilcam 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149122
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Kemal Sunal 1" tvg-logo="http://portal.bylr-tv.com:8080/images/3185c6d849c9862511b474af940364a3.png" group-title="TR - SINEMA",TR: LionBox Kemal Sunal 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149123
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Kemal Sunal 2" tvg-logo="http://portal.bylr-tv.com:8080/images/3185c6d849c9862511b474af940364a3.png" group-title="TR - SINEMA",TR: LionBox Kemal Sunal 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149124
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Kemal Sunal 3" tvg-logo="http://portal.bylr-tv.com:8080/images/3185c6d849c9862511b474af940364a3.png" group-title="TR - SINEMA",TR: LionBox Kemal Sunal 3
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149125
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Hababam Sinifi" tvg-logo="http://portal.bylr-tv.com:8080/images/4acec9fab547fea31fddb99b6c321204.png" group-title="TR - SINEMA",TR: LionBox Hababam Sinifi
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149126
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Sener Sen" tvg-logo="http://portal.bylr-tv.com:8080/images/51937cda66e84accd612ff4d1f3e2d05.png" group-title="TR - SINEMA",TR: LionBox Sener Sen
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149127
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Cuneyt Arkin 1" tvg-logo="http://portal.bylr-tv.com:8080/images/e1200709bb5a78e52edef8b60783431a.png" group-title="TR - SINEMA",TR: LionBox Cuneyt Arkin 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149128
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Cuneyt Arkin 2" tvg-logo="http://portal.bylr-tv.com:8080/images/e1200709bb5a78e52edef8b60783431a.png" group-title="TR - SINEMA",TR: LionBox Cuneyt Arkin 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149129
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Kadir Inanir" tvg-logo="http://portal.bylr-tv.com:8080/images/4fab30291b29207769d3c8aa35db43f3.png" group-title="TR - SINEMA",TR: LionBox Kadir Inanir
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149130
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yilmaz Guney" tvg-logo="http://portal.bylr-tv.com:8080/images/97183b0db25e9737330fdba40f81c505.png" group-title="TR - SINEMA",TR: LionBox Yilmaz Guney
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149131
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Turkan Soray" tvg-logo="http://portal.bylr-tv.com:8080/images/202572faeaf0b850affdc73047ffeb64.png" group-title="TR - SINEMA",TR: LionBox Turkan Soray
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149132
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Cem Yilmaz" tvg-logo="http://portal.bylr-tv.com:8080/images/e6b34eb3eac58b9d90a9c6c8b0f5c6cb.png" group-title="TR - SINEMA",TR: LionBox Cem Yilmaz
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149133
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli 1" tvg-logo="http://portal.bylr-tv.com:8080/images/0d849171f2f5937936bafc4a363276ae.png" group-title="TR - SINEMA",TR: LionBox Yerli 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149134
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli 2" tvg-logo="http://portal.bylr-tv.com:8080/images/0d849171f2f5937936bafc4a363276ae.png" group-title="TR - SINEMA",TR: LionBox Yerli 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149135
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 1" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149136
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 2" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149137
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 3" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 3
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149138
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 4" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 4
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149139
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 5" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 5
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149140
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 6" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 6
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149141
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 7" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 7
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149142
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 8" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 8
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149143
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 9" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 9
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149144
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 10" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 10
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149145
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 11" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 11
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149146
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 12" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 12
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149147
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 13" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 13
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149148
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 14" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 14
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149149
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 15" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 15
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149150
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 16" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 16
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149151
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 17" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 17
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149152
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 18" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 18
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149153
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 19" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 19
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149154
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yerli Sinema 20" tvg-logo="http://portal.bylr-tv.com:8080/images/8161215eadb2433dba79ff839e7c9b38.png" group-title="TR - SINEMA",TR: LionBox Yerli Sinema 20
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149155
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 1 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149156
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149157
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 3 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149158
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 4 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 4 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149159
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 5 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 5 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149160
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 6 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 6 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149161
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 7 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149162
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 8 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 8 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149163
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 9 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 9 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149164
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movie Time 10 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="TR - SINEMA",TR: Movie Time 10 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149165
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Jackie Chan 1" tvg-logo="http://portal.bylr-tv.com:8080/images/fa61d06a227c90e845109a46ce8028c0.png" group-title="TR - SINEMA",TR: LionBox Jackie Chan 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149166
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Jackie Chan 2" tvg-logo="http://portal.bylr-tv.com:8080/images/fa61d06a227c90e845109a46ce8028c0.png" group-title="TR - SINEMA",TR: LionBox Jackie Chan 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149167
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Marvel 1" tvg-logo="http://portal.bylr-tv.com:8080/images/8fbc7ff7b6ed792ab5e02b014c54332d.png" group-title="TR - SINEMA",TR: LionBox Marvel 1
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149168
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Marvel 2" tvg-logo="http://portal.bylr-tv.com:8080/images/8fbc7ff7b6ed792ab5e02b014c54332d.png" group-title="TR - SINEMA",TR: LionBox Marvel 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149169
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Horror" tvg-logo="http://portal.bylr-tv.com:8080/images/afa24dac790afbff8d4991c8da5926f3.png" group-title="TR - SINEMA",TR: LionBox Horror
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149170
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Chucky" tvg-logo="http://portal.bylr-tv.com:8080/images/e2b94193e82753994ebd5efe21ee3f78.png" group-title="TR - SINEMA",TR: LionBox Chucky
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149171
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Mumya" tvg-logo="http://portal.bylr-tv.com:8080/images/7ce2883e3ea0c934dea9057d6b868cee.png" group-title="TR - SINEMA",TR: LionBox Mumya
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149172
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Superman" tvg-logo="http://portal.bylr-tv.com:8080/images/84d961568a65073a3bcf0eb216b2a576.png" group-title="TR - SINEMA",TR: LionBox Superman
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149173
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Johnny Depp" tvg-logo="http://portal.bylr-tv.com:8080/images/dcda6b9ad3a1f840e3bad2dcce36c56f.png" group-title="TR - SINEMA",TR: LionBox Johnny Depp
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149174
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Fast & Furious" tvg-logo="http://portal.bylr-tv.com:8080/images/9b61521a557bd2afdb79add109604d35.png" group-title="TR - SINEMA",TR: LionBox Fast & Furious
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149175
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Predator" tvg-logo="http://portal.bylr-tv.com:8080/images/83b7fa97dfef4904f774cf6aa003ef74.png" group-title="TR - SINEMA",TR: LionBox Predator
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149176
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Final Destination" tvg-logo="http://portal.bylr-tv.com:8080/images/61215f07ade27f100e2d2e4e2af32773.png" group-title="TR - SINEMA",TR: LionBox Final Destination
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149177
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Harry Potter" tvg-logo="http://portal.bylr-tv.com:8080/images/191db74ec83639cafe8370bf92f0c884.png" group-title="TR - SINEMA",TR: LionBox Harry Potter
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149178
+#EXTINF:-1 tvg-id="" tvg-name="TR: LionBox Yuzuklerin Efendisi" tvg-logo="http://portal.bylr-tv.com:8080/images/9cf91f125460e02f70b0ce43d4709c7b.png" group-title="TR - SINEMA",TR: LionBox Yuzuklerin Efendisi
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149179
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALONDA NE VAR" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALONDA NE VAR
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149180
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 1 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 1 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149181
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 2 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149182
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 3 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 3 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149183
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 4 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 4 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149184
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 5 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 5 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149185
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 6 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 6 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149186
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 7 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 7 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149187
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 8 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 8 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149188
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 9 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 9 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149189
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 10 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 10 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149190
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 11 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 11 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149191
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 12 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 12 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149192
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 13 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 13 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149193
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 14 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 14 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149194
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 15 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 15 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149195
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 16 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 16 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149196
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 17 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 17 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149197
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 18 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 18 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149198
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 19 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 19 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149199
+#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 20 HD" tvg-logo="http://portal.dm-lv.com:8080/images/b8422aa4f9460236d8d0a8dd4bfb46d1.png" group-title="TR - SINEMA",TR: SALON 20 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149200
+#EXTINF:-1 tvg-id="" tvg-name="TR: RECEP IVEDIK 7/24" tvg-logo="http://portal.dm-lv.com:8080/images/d18c19f0aacbed8678cd14f7eb667060.png" group-title="TR - SINEMA",TR: RECEP IVEDIK 7/24
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149201
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM TV 2" tvg-logo="http://portal.dm-lv.com:8080/images/aa239781b756704c855934aa88b027f0.png" group-title="TR - SINEMA",TR: YESILCAM TV 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149202
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM TV 3" tvg-logo="http://portal.dm-lv.com:8080/images/aa239781b756704c855934aa88b027f0.png" group-title="TR - SINEMA",TR: YESILCAM TV 3
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149203
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 2" tvg-logo="http://portal.dm-lv.com:8080/images/3185c6d849c9862511b474af940364a3.png" group-title="TR - SINEMA",TR: KEMAL SUNAL TV 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149204
+#EXTINF:-1 tvg-id="" tvg-name="TR: SENER SEN TV" tvg-logo="http://portal.dm-lv.com:8080/images/51937cda66e84accd612ff4d1f3e2d05.png" group-title="TR - SINEMA",TR: SENER SEN TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149205
+#EXTINF:-1 tvg-id="" tvg-name="TR: ILYAS SALMAN TV" tvg-logo="http://portal.dm-lv.com:8080/images/2a4023a23ff3245d7cf3dc5fdc9d3ed9.png" group-title="TR - SINEMA",TR: ILYAS SALMAN TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149206
+#EXTINF:-1 tvg-id="" tvg-name="TR: ZEKI METIN TV" tvg-logo="http://portal.dm-lv.com:8080/images/f2ca0a154d6449d17af69b480d47fbe1.png" group-title="TR - SINEMA",TR: ZEKI METIN TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149207
+#EXTINF:-1 tvg-id="" tvg-name="TR: SADRI ALISIK TV" tvg-logo="http://portal.dm-lv.com:8080/images/2e3880c56e228fe762e33822445e6a2d.png" group-title="TR - SINEMA",TR: SADRI ALISIK TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149208
+#EXTINF:-1 tvg-id="" tvg-name="::..:: 7/24 DIZI ::..::" tvg-logo="http://portal.bylr-tv.com:8080/images/eb816b86c97eeefe4092e70840e424d8.png" group-title="TR - SINEMA",::..:: 7/24 DIZI ::..::
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149212
+#EXTINF:-1 tvg-id="" tvg-name="TR: CUKUR HD" tvg-logo="https://i.ibb.co/dJf0bNQ/bluetv.png" group-title="TR - SINEMA",TR: CUKUR HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/142900
+#EXTINF:-1 tvg-id="" tvg-name="TR: EZEL TV" tvg-logo="http://portal.dm-lv.com:8080/images/4900bea9d0ff8597f0459652d1ddd9af.png" group-title="TR - SINEMA",TR: EZEL TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149213
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURTLAR VADISI PUSU TV" tvg-logo="http://portal.dm-lv.com:8080/images/656e33102ccbe69933334f06ed8948c5.png" group-title="TR - SINEMA",TR: KURTLAR VADISI PUSU TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149214
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDHO TV" tvg-logo="http://portal.dm-lv.com:8080/images/78d1201e699fbae7a4426839d8e91b8a.png" group-title="TR - SINEMA",TR: EDHO TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149215
+#EXTINF:-1 tvg-id="" tvg-name="TR: DELI YUREK TV" tvg-logo="http://portal.dm-lv.com:8080/images/61a43d620088f541a6b257d6f7096e3a.png" group-title="TR - SINEMA",TR: DELI YUREK TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149216
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURULUS OSMAN TV" tvg-logo="http://portal.dm-lv.com:8080/images/7a0f553cb6aa56251ccd716d4c26f98c.png" group-title="TR - SINEMA",TR: KURULUS OSMAN TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149217
+#EXTINF:-1 tvg-id="" tvg-name="TR: UYANIS BUYUK SELCUKLU TV" tvg-logo="http://portal.dm-lv.com:8080/images/830a85e5d9fc4db755a3a6ba504a1fba.png" group-title="TR - SINEMA",TR: UYANIS BUYUK SELCUKLU TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149218
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIRILIS ERTUGRUL TV" tvg-logo="http://portal.dm-lv.com:8080/images/43640dd8394dae482d9df8e57fd0e471.png" group-title="TR - SINEMA",TR: DIRILIS ERTUGRUL TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149219
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOKAGIN COCUKLARI TV 7/24" tvg-logo="http://portal.dm-lv.com:8080/images/232f2de717415d81f9ad91cbe5163660.png" group-title="TR - SINEMA",TR: SOKAGIN COCUKLARI TV 7/24
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149220
+#EXTINF:-1 tvg-id="" tvg-name="TR: GULDUR GULDUR TV" tvg-logo="http://portal.dm-lv.com:8080/images/31a0ac2940aa11595604789f3b0bb731.png" group-title="TR - SINEMA",TR: GULDUR GULDUR TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149221
+#EXTINF:-1 tvg-id="" tvg-name="TR: COK GUZEL HAREKETLER TV" tvg-logo="http://portal.dm-lv.com:8080/images/d062b5cf0db1161025e54643c8163336.png" group-title="TR - SINEMA",TR: COK GUZEL HAREKETLER TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149222
+#EXTINF:-1 tvg-id="" tvg-name="TR: AVRUPA YAKASI 7/24" tvg-logo="http://portal.dm-lv.com:8080/images/270d204f6cec14029dbd48ce766e3b0b.png" group-title="TR - SINEMA",TR: AVRUPA YAKASI 7/24
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/149223
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: Dizi Smart Max HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/dizismartmaxhd.png" group-title="TR - SINEMA",TR: Dizi Smart Max HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61986
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: Dizi Smart Premium HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/dizismartpremiumhd.png" group-title="TR - SINEMA",TR: Dizi Smart Premium HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61987
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/ulusal/fxhd.png" group-title="TR - SINEMA",TR: FX HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61963
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SiNEMA TV" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinematvhd.png" group-title="TR - SINEMA",TR: SiNEMA TV
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61975
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinematv2hd.png" group-title="TR - SINEMA",TR: SINEMA TV 2
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/104341
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SiNEMA YERLi" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemayerlihd.png" group-title="TR - SINEMA",TR: SiNEMA YERLi
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61973
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SiNEMA TV YERLi 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemayerli2hd.png" group-title="TR - SINEMA",TR: SiNEMA TV YERLi 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/104342
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SiNEMA AiLE" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemaailehd.png" group-title="TR - SINEMA",TR: SiNEMA AiLE
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61967
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="TR: SINEMA TV AILE 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemaaile2fhd.png" group-title="TR - SINEMA",TR: SINEMA TV AILE 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/104345
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SiNEMA AKSiYON" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemaaksiyonhd.png" group-title="TR - SINEMA",TR: SiNEMA AKSiYON
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61971
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV AKSIYON 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemaaksiyon2fhd.png" group-title="TR - SINEMA",TR: SINEMA TV AKSIYON 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/104343
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SiNEMA KOMEDi" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemakomedihd.png" group-title="TR - SINEMA",TR: SiNEMA KOMEDi
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61966
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinemakomedi2hd.png" group-title="TR - SINEMA",TR: SINEMA TV KOMEDI 2 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/104344
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SiNEMA 1001" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinema1001hd.png" group-title="TR - SINEMA",TR: SiNEMA 1001
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61969
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/sinema1002hd.png" group-title="TR - SINEMA",TR: SINEMA TV 1002 HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/104346
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MovieSmart Classic HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/moviesmart-classic.png" group-title="TR - SINEMA",TR: MovieSmart Classic HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61988
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MovieSmart Turk HD" tvg-logo="http://iptvhdtr.com/Logolar/tr/bein-dsmart/moviesmart-turk.png" group-title="TR - SINEMA",TR: MovieSmart Turk HD
+http://awoxiptv.xyz:8080/barisaldogan1910/Baris5359417925/61997
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᴴᴰ⁺
 https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
