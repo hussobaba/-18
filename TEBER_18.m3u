@@ -15,11 +15,9 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 
 #EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:362,TRT 4K 1080p
-http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
 
-#EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR",TRT4 1080p YDK
-https://cors.deno.dev/http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/9032/index.m3u8
+#EXTINF:362,TRT 4K 1080p GEÇ AÇILIYOR
+http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
 
 #EXTINF:0 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
@@ -132,6 +130,14 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel",ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:1,Metropol Tv
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
+
+#EXTINF:1,SANCAK TV
+https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
+
+#EXTINF:1,MAR TV
+https://59cba4d34b678.streamlock.net/live/marmaratv/chunklist_w291666692.m3u8
 
 #EXTINF:1,TARİH TV
 https://bit.ly/3e6ppYK
@@ -142,17 +148,29 @@ http://bit.ly/3a5RJrT
 #EXTINF:0 tvg-rec="3",Meltem TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
+#EXTINF:1,BÜRÜKSEL TV
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
+
 #EXTINF:1,KENT TÜRK
 https://h92.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8
 
 #EXTINF:1,kanal A
 https://h125.artiyerelmedya.net/tva/bant1/chunks.m3u8
 
+XTINF:-1,AKSU TV
+http://31.223.85.34:9999/play/a06u/index.m3u8
+
 #EXTINF:1,kanal V
 https://h92.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 
+EXTINF:-1,ANADOLU DERNEK TV
+http://31.223.85.34:9999/play/a065/index.m3u8
+
 #EXTINF:1,WORLD TÜRK
 https://h59.artiyerelmedya.net/worldturk/bant1/chunks.m3u8
+
+#EXTINF:-1,Şems tv
+https://59cba4d34b678.streamlock.net/canlitv/semstv/chunklist_w1730584572.m3u8
 
 #EXTINF:1,URFANATİK
 https://h125.artiyerelmedya.net/urfanatiktv/bant1/chunks.m3u8
@@ -265,8 +283,6 @@ http://31.223.85.34:9999/play/a080/index.m3u8
 #EXTINF:-1,PAMUKKALE TV
 http://31.223.85.34:9999/play/a08b/index.m3u8
 
-
-
 #EXTINF:-1,REHBER TV
 http://31.223.85.34:9999/play/a07m/index.m3u8
 
@@ -300,8 +316,8 @@ https://broadcasttr.com:446/frttv/bant1/chunklist.m3u8
 #EXTINF:-1,KANAL PATI HD
 http://50.7.136.162:1935/live/kanalpati/chunklist_w1815242397.m3u8
 
-#EXTINF:-1,WM TV HD 
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:-1,kanal 15 
+http://31.223.85.34:9999/play/a076/index.m3u8
 
 #EXTINF:-1,ARTI TV HD
 http://185.236.229.31:9981/play/a04a
@@ -352,9 +368,139 @@ http://31.223.85.34:9999/play/a084/index.m3u8
 #EXTINF:-1,CEM TV HD
 http://31.223.85.34:9999/play/a08h/index.m3u8
 
+#EXTINF:794,İÇEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+
+#EXTINF:810,PAMUKKALE TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/28275
+
+#EXTINF:807,KOZA TV
+http://nadiriptv.xyz:8080/engin1505154/tb98123w57/26810
+
+#EXTINF:811,ELMAS 67
+https://edge1.socialsmart.tv/elmastv/bant1/playlist.m3u8
+
+#EXTINF:812,DİYAR TV
+https://yayin30.haber100.com/live/diyartv/chunklist.m3u8
+
+#EXTINF:813,SİTELER TV
+https://vdo.digitalbox.xyz:3925/stream/play.m3u8
+
+#EXTINF:814,UZAY HABER
+http://nox.nox102.xyz:80/mert924bn/231020.ft/116
+
+#EXTINF:774,MARMARA TV
+https://59cba4d34b678.streamlock.net/live/marmaratv/playlist.m3u8
+#EXTINF:775,KÖROĞLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
+#EXTINF:776,HABER 61
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:777,GURBET24 TV
+https://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
+#EXTINF:778,ERTV
+https://waw3.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+#EXTINF:779,AKTUEL MÜZİK TV
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
+#EXTINF:780,ETV MANİSA
+https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
+#EXTINF:781,ETV EDİRNE
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+#EXTINF:782,ÖNCÜ TV
+https://broadcasttr.com:446/oncurtv/bant1/chunklist.m3u8
+#EXTINF:783,RUMELİ TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/34391
+#EXTINF:784,TEK RUMELİ TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:785,AHİ TV
+https://59cba4d34b678.streamlock.net/canlitv/ahitv/chunklist.m3u8
+#EXTINF:786,A TÜRK
+https://vdo.digitalbox.xyz:3807/hybrid/play.m3u8
+#EXTINF:789,ADA TV NET
+https://edge1.socialsmart.tv/adatv/bant1/playlist.m3u8
+#EXTINF:790,AKILLI TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:791,ORDU ALTAŞ TV
+https://edge1.socialsmart.tv/altastv/bant1/chunks.m3u8
+#EXTINF:792,ÇAY TV
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
+#EXTINF:793,ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/chunklist.m3u8
+#EXTINF:793,ERCİS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/playlist.m3u8
+#EXTINF:794,VAN GÖLÜ TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+#EXTINF:760,MAVİ KARADENİZ
+https://h59.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
+#EXTINF:761,MERCAN TV
+https://waw3.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+#EXTINF:762,OLAY TÜRK
+https://waw3.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
+#EXTINF:763,SAT7 TÜRK
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:764,SUN RTV
+http://yerelmedya.tv:1935/sunrtv/bant1/playlist.m3u8
+#EXTINF:765,TEMPO TV
+https://waw3.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+#EXTINF:766,TON TV
+http://yerelmedya.tv:1935/tontv/bant1/playlist.m3u8
+#EXTINF:767,TV41
+https://waw3.artiyerelmedya.net/tv41/bant1/playlist.m3u8
 #EXTINF:-1,LUYS TV
 http://31.223.85.34:9999/play/a08m/index.m3u8
-
+#EXTINF:757,LIFE TV
+https://waw3.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:751,KANAL 68
+https://waw3.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:752,KANAL FIRAT
+http://yerelmedya.tv:1935/kanalfirat/bant1/playlist.m3u8
+#EXTINF:753,KANAL V
+https://waw3.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
+#EXTINF:754,KANAL Z
+https://waw3.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:755,KAY TV
+https://h59.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+#EXTINF:756,KENT TÜRK
+https://waw3.artiyerelmedya.net/38kenttv/ba
+#EXTINF:730,LİNE TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:731,KADIRGA TV
+http://nadiriptv.xyz:8080/engin1505154/tb98123w57/29109
+#EXTINF:732,ON6
+https://h125.artiyerelmedya.net/kanal16/bant1/playlist.m3u8
+#EXTINF:733,AKSU TV
+https://h59.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:734,ANADOLU NET TV
+https://h59.artiyerelmedya.net/anadolunettv/bant1/playlist.m3u8
+#EXTINF:734,AS TV
+https://h59.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:735,BRTV
+https://waw3.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+#EXTINF:736,ÇİFTÇİ TV
+https://h125.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:737,DEHA TV
+https://h59.artiyerelmedya.net/dehatv/bant1/chunks.m3u8
+#EXTINF:738,DENİZ POSTASI
+https://waw3.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:739,DİM TV
+https://canli.dimtv.tv/hls/dim/index.m3u8
+#EXTINF:740,ETV KAYSERİ
+https://waw3.artiyerelmedya.net/etv/bant1/playlist.m3u8
+#EXTINF:741,GRT
+https://waw3.artiyerelmedya.net/grt/bant1/playlist.m3u8
+#EXTINF:742,GÜNEY TV TARSUS
+http://yerelmedya.tv:1935/guneytv/bant1/playlist.m3u8
+#EXTINF:743,HUNAT TV
+http://yerelmedya.tv:1935/hunattv/bant1/playlist.m3u8
+#EXTINF:744,İNTER AZ
+https://waw3.artiyerelmedya.net/interaz/bant1/playlist.m3u8
+#EXTINF:745,KANAL 12
+https://waw3.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:746,KANAL 15
+https://waw3.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:747,KANAL 23
+https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v2a1/mono.m3u8
+#EXTINF:748,KANAL 26
+https://waw3.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_CLC MEDYA_MEDYA_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
@@ -2027,7 +2173,6 @@ https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w9
 
 #EXTINF:0 type="stream" channelId="-1" group="iPTV_KANALLAR", DUZGUN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-
 ----ADULTV----
 
 #EXTINF:0,1
