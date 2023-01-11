@@ -22,12 +22,27 @@ https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 
 #EXTINF:1,CHANNEL 6tv
 https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
+#EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9" group-title="ULUSAL",TGRT EU  
+https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8| User-Agent=Lavf53.32.100 
+
+#EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9" group-title="ULUSAL",TGRT EU  
+https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8| User-Agent=Lavf53.32.100 
 
 #EXTINF:-1,FOX TV HD
 http://31.223.85.34:9999/play/a07a/index.m3u8
 
-#EXTINF:-1,ATV HD
-http://bit.ly/3evgssd
+#EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺
+http://195.142.1.211:4022/udp/224.2.2.19:10001
+http://195.142.1.211:4002/udp/224.2.2.19:10001
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺
+http://31.177.62.182:8004/play/s13
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1,TR: ATV AVRUPA
 http://31.223.85.34:9999/play/a05q/index.m3u8
@@ -56,8 +71,9 @@ http://31.223.85.34:9999/play/a061/index.m3u8
 #EXTINF:0 type="stream" channelId="1044" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D drama
 http://146.59.19.1/5062/mpegts
 
-#EXTINF:1,KANAL 7 HD
-http://bit.ly/3Qp80Yu
+#EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1,KANAL 7 AVRUPA HD
 http://31.223.85.34:9999/play/a07h/index.m3u8
@@ -86,6 +102,9 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:1,TEBER Y.GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo.png" group-title="ULUSAL",TV 4 ᵁᴴᴰ⁺
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
 http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
@@ -268,6 +287,10 @@ https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya2.mp4/index.m3u8
 
 #EXTINF:-1, Mumya 3: Ejder İmparatoru\'nun Mezarı 
 https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya3.mp4/index.m3u8
+
+
+ #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
+https://cors.deno.dev/http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8| User-Agent=Lavf53.32.100  
 
 
 #EXTINF:-1,ON6 TV
@@ -752,21 +775,111 @@ http://kuzeykibris.tv/m3u8/tv_ada.m3u8
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spor Kanallar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
-#EXTINF:-0,GS TV Galatasaray
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-0,TRT SPOR
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
-#EXTINF:-0,TRT SPOR 2
-https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-0,Yeni Malatyaspor TV
-https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/playlist.m3u8
-#EXTINF:-0,Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-0,Briç ve Satranç TV
-http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-0,Tay TV
-http://media.netd.com.tr/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | S Sport 1 HEVC" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR VIP",| TR | S Sport 1 HEVC
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | S Sport 1 FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR VIP",| TR | S Sport 1 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | S Sport 1 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR VIP",| TR | S Sport 1 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | S Sport 2 HEVC" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR VIP",| TR | S Sport 2 HEVC
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | S Sport 2 FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR VIP",| TR | S Sport 2 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | S Sport 2 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR VIP",| TR | S Sport 2 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SporSmart 1 HEVC" tvg-logo="http://XFEEDip.tv:8080/images/tEZUbGC4_54vUAD3b6aeY5pLWCXJlMNAP_6X4AeRz40WqdvUgMfiW3U10iN25nH9dMe5yB1NI-KcQ7isxJhoTiNGNKsVF9ZWJghYn7eWuas.png" group-title="TR VIP",| TR | SporSmart 1 HEVC
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SporSmart 1 FHD" tvg-logo="http://XFEEDip.tv:8080/images/tEZUbGC4_54vUAD3b6aeY5pLWCXJlMNAP_6X4AeRz40WqdvUgMfiW3U10iN25nH9dMe5yB1NI-KcQ7isxJhoTiNGNKsVF9ZWJghYn7eWuas.png" group-title="TR VIP",| TR | SporSmart 1 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SporSmart 1 HD" tvg-logo="http://XFEEDip.tv:8080/images/tEZUbGC4_54vUAD3b6aeY5pLWCXJlMNAP_6X4AeRz40WqdvUgMfiW3U10iN25nH9dMe5yB1NI-KcQ7isxJhoTiNGNKsVF9ZWJghYn7eWuas.png" group-title="TR VIP",| TR | SporSmart 1 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SporSmart 2 HEVC" tvg-logo="http://XFEEDip.tv:8080/images/tEZUbGC4_54vUAD3b6aeY5pLWCXJlMNAP_6X4AeRz40WqdvUgMfiW3U10iN25nH9BEPS_f_0-et2TEbst6ka5VEJr9rK6Ym3w2-am4PPRG8.png" group-title="TR VIP",| TR | SporSmart 2 HEVC
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SporSmart 2 FHD" tvg-logo="http://XFEEDip.tv:8080/images/tEZUbGC4_54vUAD3b6aeY5pLWCXJlMNAP_6X4AeRz40WqdvUgMfiW3U10iN25nH9BEPS_f_0-et2TEbst6ka5VEJr9rK6Ym3w2-am4PPRG8.png" group-title="TR VIP",| TR | SporSmart 2 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SporSmart 2 HD" tvg-logo="http://XFEEDip.tv:8080/images/tEZUbGC4_54vUAD3b6aeY5pLWCXJlMNAP_6X4AeRz40WqdvUgMfiW3U10iN25nH9BEPS_f_0-et2TEbst6ka5VEJr9rK6Ym3w2-am4PPRG8.png" group-title="TR VIP",| TR | SporSmart 2 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 1 FHD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmW_qA-f5Qk4VSSiNCuMKbAc.png" group-title="TR VIP",| TR | TivibuSpor 1 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 1 HD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmW_qA-f5Qk4VSSiNCuMKbAc.png" group-title="TR VIP",| TR | TivibuSpor 1 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 2 FHD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmdqMvyQZMPk3OzxL0KHnEaQ.png" group-title="TR VIP",| TR | TivibuSpor 2 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 2 HD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmdqMvyQZMPk3OzxL0KHnEaQ.png" group-title="TR VIP",| TR | TivibuSpor 2 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 3 FHD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmbCXQZc1HXmEEUjw3pXwRvY.png" group-title="TR VIP",| TR | TivibuSpor 3 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 3 HD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmbCXQZc1HXmEEUjw3pXwRvY.png" group-title="TR VIP",| TR | TivibuSpor 3 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 4 FHD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmSaW5uLcDmPHr19F7_yET6Y.png" group-title="TR VIP",| TR | TivibuSpor 4 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 4 HD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmSaW5uLcDmPHr19F7_yET6Y.png" group-title="TR VIP",| TR | TivibuSpor 4 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 5 FHD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEMLXoIRqr4yj6GVUu1TOYSuJekZUmP96aR92rF7eE654E4.png" group-title="TR VIP",| TR | TivibuSpor 5 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | TivibuSpor 5 HD" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEMLXoIRqr4yj6GVUu1TOYSuJekZUmP96aR92rF7eE654E4.png" group-title="TR VIP",| TR | TivibuSpor 5 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | A Spor FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=409" group-title="TR VIP",| TR | A Spor FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | A Spor HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=409" group-title="TR VIP",| TR | A Spor HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Trt Spor FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=360" group-title="TR VIP",| TR | Trt Spor FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Trt Spor HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=360" group-title="TR VIP",| TR | Trt Spor HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Trt Spor Yıldız FHD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=598" group-title="TR VIP",| TR | Trt Spor Yıldız FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Trt Spor Yıldız HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=598" group-title="TR VIP",| TR | Trt Spor Yıldız HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Fb Tv" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=120" group-title="TR VIP",| TR | Fb Tv
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Gs Tv" tvg-logo="http://XFEEDip.tv:8080/images/LN3WB3UcbVOR3oMb-QMOtbIIVAQEIHx62MO7MYesRC1GijuZqjkarAJa6yRO5xGhd7HslBBdAq647fHhyegPgphfervxtaNzQvEWo0-WP5U.png" group-title="TR VIP",| TR | Gs Tv
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Eurosport 1" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=249" group-title="TR VIP",| TR | Eurosport 1
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Eurosport 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=563" group-title="TR VIP",| TR | Eurosport 2
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Nba Tv" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=606" group-title="TR VIP",| TR | Nba Tv
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Tay Tv" tvg-logo="http://XFEEDip.tv:8080/images/lHXEWVODpwiiqsWFdPiWSJFl3ZuSjO2umpi9s2jTqdOlrs7jShvJC2WEbinPblTuQIZIDdiuL-Zj4f5lQkCvg_fWW8kp_UGafXBpF4C_Ons.png" group-title="TR VIP",| TR | Tay Tv
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Tjk Tv" tvg-logo="http://XFEEDip.tv:8080/images/LN3WB3UcbVOR3oMb-QMOtbIIVAQEIHx62MO7MYesRC1GijuZqjkarAJa6yRO5xGhXiAVCS2xjtPzrfZwli5UcyGL7V2UlNujyNl4Jzh9f6U.png" group-title="TR VIP",| TR | Tjk Tv
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Fast & Funbox" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=490" group-title="TR VIP",| TR | Fast & Funbox
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Fight Box" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=491" group-title="TR VIP",| TR | Fight Box
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Fight Network" tvg-logo="http://XFEEDip.tv:8080/images/s5SmvL2keYuUno80Smbd5okW1ZxjRrRmkHOKWyKGNwwf5ATsp1tQSlxpAnZFKEML_x6NIDTuDOkTdz_bpFcjmYoAE8VT_EOXT2-I-I3AoJU.png" group-title="TR VIP",| TR | Fight Network
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Trace Stars Sports" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=218" group-title="TR VIP",| TR | Trace Stars Sports
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | Edge Sports" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=607" group-title="TR VIP",| TR | Edge Sports
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 1 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 1 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 2 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 2 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 3 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 3 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 4 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 4 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 5 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 5 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 6 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 6 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | SSpor+ 7 ( ONLY EVENT TiME )" tvg-logo="http://XFEEDip.tv:8080/images/l8XeQKCQIX9LA0sx0e9h0s-lGkPH5yW_aNQSkHHowRCTxLYrOp7cwtR5CvivmVkG.png" group-title="TR VIP",| TR | SSpor+ 7 ( ONLY EVENT TiME )
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168634.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="--* xɪᴘᴛᴠ ғᴇᴇᴅ ᴋᴀɴᴀʟʟᴀʀɪ *--" tvg-logo="http://feedyayin.xyz:8080/images/ba410df25c5417f4dbdd0fd450290e53.png" group-title="TR Spor VIP",--* xɪᴘᴛᴠ ғᴇᴇᴅ ᴋᴀɴᴀʟʟᴀʀɪ *--
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/111897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| ⱽᴵᴾ | X Feed | Sporтѕ 1 ⁴ᴷ ʰ²⁶⁵ 10Mвιт" tvg-logo="http://feedci.localch.xyz:8080/images/27f237e6b7f96587b6202ff3607ad88a.png" group-title="TR Spor VIP",| ⱽᴵᴾ | X Feed | Sporтѕ 1 ⁴ᴷ ʰ²⁶⁵ 10Mвιт
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/111898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| ⱽᴵᴾ | X Feed | Sporтѕ 1 ⁴ᴷ ʰ²⁶⁵ 5Mвιт" tvg-logo="http://feedci.localch.xyz:8080/images/27f237e6b7f96587b6202ff3607ad88a.png" group-title="TR Spor VIP",| ⱽᴵᴾ | X Feed | Sporтѕ 1 ⁴ᴷ ʰ²⁶⁵ 5Mвιт
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/111899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| ⱽᴵᴾ | X Feed | Sporтѕ 1 ғʜᴅ 5Mвιт" tvg-logo="http://feedci.localch.xyz:8080/images/c6bdf6f65f3845da9085e9ae5790b494.png" group-title="TR Spor VIP",| ⱽᴵᴾ | X Feed | Sporтѕ 1 ғʜᴅ 5Mвιт
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/111900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| ⱽᴵᴾ | X Feed | Sporтѕ 2 ғʜᴅ 5Mвιт" tvg-logo="http://feedci.localch.xyz:8080/images/bbd97b00c539801e32317ab550867ec4.png" group-title="TR Spor VIP",| ⱽᴵᴾ | X Feed | Sporтѕ 2 ғʜᴅ 5Mвιт
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/111903.m3u8
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Çocuk Kanallar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
