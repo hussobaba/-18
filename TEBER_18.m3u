@@ -11,8 +11,8 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:365,TRT 4K
-http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/90
+#EXTINF:-1,TRT 4K
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/123887
 
 #EXTINF:0 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
@@ -92,7 +92,7 @@ http://31.223.85.34:9999/play/a06a/index.m3u8
 #EXTINF:-1,SHOW TÜRK HD
 http://31.223.85.34:9999/play/a09c/index.m3u8
 
-#EXTINF:-1,SHOW MAKS
+#EXTINF:-1,SHOW MAX
 http://31.223.85.34:9999/play/a06d/index.m3u8
 
 #EXTINF:-1,KANAL D
