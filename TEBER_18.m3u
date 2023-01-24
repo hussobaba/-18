@@ -56,8 +56,11 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:1, YANSIMA KLASİK TV
 https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+#EXTINF:-1,tiviTÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:1, EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 
 #EXTINF:-1,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
@@ -234,9 +237,6 @@ http://tv86905.radyotelekomtv.com:22808/ykaradeniztv/ykaradeniztv/chunklist.m3u8
 #EXTINF:1, NTN YESiLCAM HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 
-#EXTINF:1, EM TV
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-
 #EXTINF:1,ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
@@ -264,8 +264,8 @@ http://yktv2828.ozelip.com:24596/ykaradeniztv/ykaradeniztv/playlist.m3u8
 #EXTINF:1,ABANT TV
 https://59cba4d34b678.streamlock.net/canlitv/abanttv/chunklist_w1150524448.m3u8
 
-#EXTINF:774,MARMARA TV
-https://59cba4d34b678.streamlock.net/live/marmaratv/playlist.m3u8
+#EXTINF:-1,Trakya Türk Tv
+https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8
 
 #EXTINF:-1,TV 264 HD
 http://31.223.85.34:9999/play/a084/index.m3u8
@@ -305,6 +305,25 @@ http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+
+#EXTINF:-1,G.Olay Tv 
+https://waw2.artiyerelmedya.net/olaytv/bant1/playlist.m3u8
+
+#EXTINF:-1,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+#EXTINF:-1,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1,CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+
+#EXTINF:-1,Hunat TV 
+https://waw2.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
+
+#EXTINF:-1,Icel TV 
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+
+#EXTINF:-1,MaviKaradeniz
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
 
 ---------------------HABER TV LERİ------------------------------
 
@@ -456,14 +475,28 @@ https://cors.deno.dev/https://yayin30.haber100.com/live/beykenttv/chunklist_w589
 #EXTINF:-1 tvg-id="TRTMeclis.tr" tvg-name="TRT Meclis HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbmm_tv.png" group-title="HABER",TBMM - MECLiS TVᴴᴰ
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV (ATV) (720p)
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="AzerbaijanNewsTV.se" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://www.aznews.tv/wp-content/uploads/2019/04/headerlogo.fw_.png" group-title="News",Azerbaijan News TV 
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBC.az" tvg-country="AZ;TR;GE" tvg-language="Azerbaijani;Russian;English;Persian;Armenian" tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="News",CBC 
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="HABER_NEWS",MeteoTV.EU
 http://65.108.87.116:8000/play/1/index.m3u8
 
+#EXTINF:-1,Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
-**********************************************************************
+
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᴴᴰ
 http://31.223.85.34:9999/play/a08g/index.m3u8
 https://cors.deno.dev/https://krt.blutv.com/blutv_krt_live/live.m3u8| User-Agent=Lavf53.32.100 
+
+**********************************************************************
+
                                  sinema
 
 #EXTINF:-1,beIN BOX OFFiCE 1 HD
