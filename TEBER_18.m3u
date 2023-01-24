@@ -147,6 +147,8 @@ http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTIETZ6gzmgSLCw== &RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
+#EXTINF:-1,TV CORAN
+http://185.236.229.31:9981/play/a03x
 
 ---------------YEREL SİNEMA KANALLARI----------------
 
@@ -432,6 +434,9 @@ https://cors.deno.dev/https://cdn-mektv.yayin.com.tr/mektv/mektv/playlist.m3u8| 
 #EXTINF:-1 tvg-id="tv100Ekonomi.tr"tvg-logo="https://yerelmedya.tv/logosTV/bultentv.png"group-title="HABER",BÜLTEN TV ANKARA
 https://waw1.artiyerelmedya.net/bultentv/bant1/playlist.m3u8
 
+#EXTINF:-1,MC EU
+http://185.236.229.31:9981/play/a04b
+
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="HABER",FINANSTURK ᴴᴰ
 https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8| User-Agent=Lavf53.32.100       
 
@@ -490,6 +495,8 @@ http://65.108.87.116:8000/play/1/index.m3u8
 #EXTINF:-1,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Ultra Nature 4K
+http://185.236.229.31:9981/play/a01d
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᴴᴰ
 http://31.223.85.34:9999/play/a08g/index.m3u8
@@ -13835,12 +13842,18 @@ http://3ffs3436hg.trm2023.xyz:8080/movie/frk3387/frk.3387/118638.mp4
 http://3ffs3436hg.trm2023.xyz:8080/movie/frk3387/frk.3387/118639.mp4
 #EXTINF:-1,Adult 2022 XXX Vod #11889
 http://3ffs3436hg.trm2023.xyz:8080/movie/frk3387/frk.3387/118640.mp4
+#EXTINF:-1,Private  HD
+http://185.236.229.31:9981/play/a03p
+#EXTINF:-1,Hustler HD
+http://185.236.229.31:9981/play/a03n
+#EXTINF:-1,Blue Hustler
+http://185.236.229.31:9981/play/a03o
+#EXTINF:-1,Brazzers HD
+http://185.236.229.31:9981/play/a03d
+#EXTINF:-1,Dorcel TV HD
+http://185.236.229.31:9981/play/a03c
 
-------------------------------------------------------------------
-
-
-
-----------BOŞ--------
+-------------BOŞ--------
 
 #EXTINF:1,TİMUR MEDYA TV 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/timurmedyatvs/chunklist_w471215078.m3u8
