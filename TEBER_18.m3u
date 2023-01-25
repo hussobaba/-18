@@ -44,10 +44,10 @@ https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001260/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001260&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+https://is.gd/d1T8gY.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+https://is.gd/daUbT5.m3u8
 
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
@@ -130,14 +130,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1,TR: EURO D
 http://31.223.85.34:9999/play/a061/index.m3u8
-
-#EXTINF:0 type="stream" channelId="1044" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD %2B-%2BKopya.png", KANAL D dizisi
-http://146.59.19.1/5062/mpegts
-
-#EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR" tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title=" ULUSAL",KANAL 7 ᵁᴴᴰ⁺
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTIETZ6gzmgSLCw== &RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
 
 #EXTINF:0 tvg-rec="3",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
