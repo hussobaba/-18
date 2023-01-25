@@ -30,6 +30,9 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1,kanal 7 HZ YUSUF
 https://is.gd/ViIggO&m3u8
 
+#EXTINF:-1,DENİZ TV
+https://is.gd/VIVwHK&m3u8
+
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 https://cors.deno.dev/https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.33:10001
