@@ -58,6 +58,9 @@ https://bit.ly/3H8DDTF
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
 
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
+https://bit.ly/406KoxS
+
 #EXTINF:1, YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
@@ -13864,7 +13867,6 @@ http://5.254.16.186:80/TRTMuzik/mono.m3u8
 #EXTINF:0,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
+
 
 ------------------TEBER 18 Lİ PAKET------------------------------------------
