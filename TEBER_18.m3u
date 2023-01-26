@@ -43,18 +43,15 @@ https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3
 #http://31.223.85.34:9999/play/a07d/index.m3u8#http://195.142.1.211:4002/udp/224.2.2.34:10001#
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001260/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001260&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV
-https://is.gd/d1T8gY.m3u8
-
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV HD
-https://bit.ly/3R67EIi
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV 
+https://bit.ly/3R67EIi#https://is.gd/d1T8gY.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
-https://is.gd/daUbT5.m3u8
+https://bit.ly/3H8DDTF#https://is.gd/daUbT5.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV HD
-https://bit.ly/3H8DDTF
-
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER RADYO
+https://bit.ly/404ivqm
+ 
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
 
