@@ -30,9 +30,6 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1,kanal 7 HZ YUSUF
 https://is.gd/ViIggO&m3u8
 
-#EXTINF:-1,DENİZ TV
-https://is.gd/VIVwHK&m3u8
-
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 https://cors.deno.dev/https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.33:10001
@@ -49,8 +46,14 @@ https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV
 https://is.gd/d1T8gY.m3u8
 
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV HD
+https://bit.ly/3R67EIi
+
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
 https://is.gd/daUbT5.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV HD
+https://bit.ly/3H8DDTF
 
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
