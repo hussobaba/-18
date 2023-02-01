@@ -1,8 +1,6 @@
 #EXTM3U
-
-EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
 https://cors.deno.dev/https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
-
 
 #EXTINF:0 type="stream" channelId="2970" group-title="1_ULUSAL_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png", TRT 2 FHD
 http://167.114.115.233:8080/trt2fhd/index.m3u8
@@ -49,7 +47,7 @@ https://is.gd/d1T8gY.m3u8
 https://is.gd/daUbT5.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER RADYO
-https://bit.ly/404ivqm
+https://is.gd/9OyPPS/TEBER_RADYO.m3u8
  
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
@@ -211,7 +209,7 @@ http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 https://waw3.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
 
 #EXTINF:-1,TEVE63
-http://31.223.85.34:9999/play/a08l/index.m3u8
+https://arajans.ozelip.com:3234/live/arajanslive.m3u8
 
 #EXTINF:1, AFYON TÜRK TV
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
@@ -348,6 +346,86 @@ https://bit.ly/3XJVM14
 
 #EXTINF:-1,-------------- | SINEMA | --------------
 http://nx4545.xyz:80/mert924bn/231020.ft/270
+
+#EXTINF:-1,BOSS MOVIES 1
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124110
+#EXTINF:-1,BOSS MOVIES 2
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124111
+#EXTINF:-1,BOSS MOVIES 3
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124112
+#EXTINF:-1,BOSS MOVIES 4
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124113
+#EXTINF:-1,BOSS MOVIES 5
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124114
+#EXTINF:-1,BOSS MOVIES 6
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124115
+#EXTINF:-1,BOSS MOVIES 7
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124116
+#EXTINF:-1,BOSS MOVIES 8
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124117
+#EXTINF:-1,BOSS MOVIES 9
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124118
+#EXTINF:-1,BOSS MOVIES 10
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124119
+#EXTINF:-1,SMARTBLU SAVAS HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124165
+#EXTINF:-1,SMARTBLU KORKU HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124166
+#EXTINF:-1,SMARTTBLU OSCAR HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124167
+#EXTINF:-1,SMARTBLU KOMEDI HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124168
+#EXTINF:-1,SMARTBLU MARVELS HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124170
+#EXTINF:-1,SMARTBLU MACERA HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124171
+#EXTINF:-1,SMARTBLU VAHSI BATI HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124172
+#EXTINF:-1,SMARTBLU ROMANTIK HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124173
+#EXTINF:-1,SMARTBLU BILIM KURGU
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124174
+#EXTINF:-1,SMARTBLU ANIMASYON HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/124175
+#EXTINF:-1,FX HD
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/123922
+
+#EXTINF:0, MOVİES PREMIERE
+http://nx4545.xyz:8080/mert924bn/231020.ft/53
+#EXTINF:0, MOVİES PREMIERE 2
+http://nx4545.xyz:8080/mert924bn/231020.ft/54
+#EXTINF:0, MOVİES STARS
+http://nx4545.xyz:8080/mert924bn/231020.ft/57
+#EXTINF:0, MOVİES ACTION
+http://nx4545.xyz:8080/mert924bn/231020.ft/55
+#EXTINF:0, MOVİES ACTION 2
+http://nx4545.xyz:8080/mert924bn/231020.ft/56
+#EXTINF:0, MOVİES FAMILY
+http://nx4545.xyz:8080/mert924bn/231020.ft/58
+#EXTINF:0, MOVİES TÜRK
+http://nx4545.xyz:8080/mert924bn/231020.ft/59
+#EXTINF:1,MOVIESMART CLASSIC
+http://nx4545.xyz:8080/mert924bn/231020.ft/187
+#EXTINF:1,MOVIESMART TÜRK
+http://nx4545.xyz:8080/mert924bn/231020.ft/174
+#EXTINF:5000,BOX OFFICE
+http://nx4545.xyz:8080/mert924bn/231020.ft/226
+#EXTINF:21,FILMBOX
+http://germanydnsx3.com:8000/ismailar/1021Zcr1021/89282
+#EXTINF:21,FILMBOX ARTHOUSE
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/63575
+#EXTINF:21,FILMBOX EXTRA
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/6357
+#EXTINF:346,DİZİSMART MAX
+http://nx4545.xyz:8080/mert924bn/231020.ft/205
+#EXTINF:341, SERIES SCI-FI
+http://nx4545.xyz:8080/mert924bn/231020.ft/60
+#EXTINF:342, SERIES COMEDY
+http://nx4545.xyz:8080/mert924bn/231020.ft/21975
+#EXTINF:344, SERIES DRAMA
+http://nx4545.xyz:8080/mert924bn/231020.ft/62
+#EXTINF:345,DİZİSMART PREMIUM
+http://nx4545.xyz:8080/mert924bn/231020.ft/185
 #EXTINF:-1,Bein Movies Premiere Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/53
 #EXTINF:-1,Bein Movies Premiere 2 Hd
@@ -676,10 +754,11 @@ http://nx4545.xyz:80/mert924bn/231020.ft/65246
 http://nx4545.xyz:80/mert924bn/231020.ft/65061
 #EXTINF:-1,Transformers Seri Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/21979
-
+#EXTINF:-1,Olacak Okadar 2 Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/65501
 ------sport tv--------
-#EXTINF:-1,TRT Spor HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8804
+#EXTINF:-1,NTV Spor HD
+https://bit.ly/3XThDU2
 #EXTINF:-1,Tivibu Spor 1
 http://premium.luginaiptv.com:8000/Armendi/123456/6677
 #EXTINF:-1,Tivibu Spor 2
@@ -814,8 +893,140 @@ http://nx4545.xyz:80/mert924bn/231020.ft/38
 http://nx4545.xyz:80/mert924bn/231020.ft/23349
 #EXTINF:-1,Fast Funbox Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/23372
-#EXTINF:-1,Olacak Okadar 2 Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/65501
+
+#EXTINF:238,TRT SPOR
+http://31.223.85.34:9999/play/a090/index.m3u8
+#EXTINF:239,NTV SPOR
+http://37.221.121.137:6060/hls/trspor/index.m3u8
+#EXTINF:240,A SPOR
+http://31.223.85.34:9999/play/a099/index.m3u8
+#EXTINF:241,EUROSPORT 1
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/172
+#EXTINF:242,EUROSPORT 2
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/173
+#EXTINF:244,TRACE SPORT STARS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:245,FIGHTBOX
+http://nx4545.xyz:8080/mert924bn/231020.ft/23349
+#EXTINF:246,FAST & FUNBOX
+http://nx4545.xyz:8080/mert924bn/231020.ft/23372
+#EXTINF:247,FIGHT NETWORK
+http://01.global-tvip.com:8080/m4ZP76WFeP/4jKNSvNHrc/178637
+#EXTINF:248,TASKRÜT SPORTS 1
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/139
+#EXTINF:249,TASKRÜT SPORTS 2
+http://nx4545.xyz:8080/mert924bn/231020.ft/19
+#EXTINF:250,TASKRÜT SPORTS 3
+http://nx4545.xyz:8080/mert924bn/231020.ft/20
+#EXTINF:251,TASKRÜT SPORTS 4
+http://nx4545.xyz:8080/mert924bn/231020.ft/25
+#EXTINF:252,TASKRÜT SPORTS 5
+http://nx4545.xyz:8080/mert924bn/231020.ft/131499
+#EXTINF:253,TASKRÜT SPORTS MAX 1
+http://nx4545.xyz:8080/mert924bn/231020.ft/28
+#EXTINF:254,TASKRÜT SPORTS MAX 2
+http://nx4545.xyz:8080/mert924bn/231020.ft/30
+#EXTINF:255,TASKRÜT SPORTS HABER
+http://nx4545.xyz:8080/mert924bn/231020.ft/85258
+#EXTINF:257,SPORSMART
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/166
+#EXTINF:258,SPORSMART 2
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/47229
+#EXTINF:259,S SPORT
+http://nx4545.xyz:8080/mert924bn/231020.ft/34
+#EXTINF:260,S SPORT2
+http://nx4545.xyz:8080/mert924bn/231020.ft/35
+#EXTINF:261,NBA TV
+http://nx4545.xyz:8080/mert924bn/231020.ft/42
+#EXTINF:262,EDGE SPORT
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:263,TRT SPOR YILDIZ
+http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:264,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:265,TİVİBU SPOR
+http://nx4545.xyz:80/mert924bn/231020.ft/106398
+#EXTINF:266,TİVİBU SPOR 1
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/159
+#EXTINF:267,TİVİBU SPOR 2
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/161
+#EXTINF:268,TİVİBU SPOR 3
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/163
+#EXTINF:269,TİVİBU SPOR 4
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/70257
+#EXTINF:271,FB TV
+http://31.223.85.34:9999/play/a08f/index.m3u8
+#EXTINF:272,GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:273,T.A.Y TV
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+#EXTINF:274,TJK TV
+http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:275,EXTREME SPORTS
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/144/index.m3u8
+#EXTINF:276,GINX ESPORTS TV
+http://178.166.14.117:4344/play/a027
+#EXTINF:277,CBC SPORT
+http://nx4545.xyz:8080/mert924bn/231020.ft/133569
+#EXTINF:278,İDMAN TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+
+
+
+#EXTINF:-1,-------------- | BELGESEL | --------------
+http://nx4545.xyz:80/mert924bn/231020.ft/272
+#EXTINF:-1,Tarih TV Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/130546
+#EXTINF:52,TARİH TV
+http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/96124
+#EXTINF:112,HABİTAT TV
+http://max.bhsplay.cf:8080/emrex/pc16pe3kx/103303
+#EXTINF:-1,Bein iz Tv Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/77
+#EXTINF:-1,beIN Gurme Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/202
+#EXTINF:-1,beIN H&E Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/73032
+#EXTINF:-1,National Geoprafic Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/194
+#EXTINF:-1,National Geographic Wild Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/133
+#EXTINF:-1,Viasat History Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/207
+#EXTINF:-1,Viasat Nature Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/34392
+#EXTINF:-1,Viasat Explore Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/50690
+#EXTINF:-1,Discovery Science Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/222
+#EXTINF:-1,Discovery Channel Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/190
+#EXTINF:-1,Discovery ID Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/34385
+#EXTINF:-1,Science Vie Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/184
+#EXTINF:-1,Yaban Tv Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/53839
+#EXTINF:-1,Kitchen Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/215
+#EXTINF:-1,TRT Belgesel Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/105
+#EXTINF:-1,Animaux Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/166
+#EXTINF:-1,History Channel Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/67
+#EXTINF:-1,Dmax Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/129
+#EXTINF:-1,Chasse et Pêche Tv Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/51082
+#EXTINF:-1,Bbc Earth Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/102
+#EXTINF:-1,On 4 Tv
+http://nx4545.xyz:80/mert924bn/231020.ft/21490
+#EXTINF:-1,Da Vinci Learning Fhd
+http://nx4545.xyz:80/mert924bn/231020.ft/22007
+#EXTINF:-1,Insight Tv Hd
+http://nx4545.xyz:80/mert924bn/231020.ft/70025
 
 #EXTINF:-1,-------------- | HABER | --------------
 http://nx4545.xyz:80/mert924bn/231020.ft/271
@@ -875,57 +1086,8 @@ http://nx4545.xyz:80/mert924bn/231020.ft/217
 http://nx4545.xyz:80/mert924bn/231020.ft/186
 #EXTINF:-1,Uzay Haber Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/116
-
-#EXTINF:-1,-------------- | BELGESEL | --------------
-http://nx4545.xyz:80/mert924bn/231020.ft/272
-#EXTINF:-1,Tarih TV Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/130546
-#EXTINF:-1,Bein iz Tv Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/77
-#EXTINF:-1,beIN Gurme Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/202
-#EXTINF:-1,beIN H&E Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/73032
-#EXTINF:-1,National Geoprafic Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/194
-#EXTINF:-1,National Geographic Wild Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/133
-#EXTINF:-1,Viasat History Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/207
-#EXTINF:-1,Viasat Nature Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/34392
-#EXTINF:-1,Viasat Explore Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/50690
-#EXTINF:-1,Discovery Science Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/222
-#EXTINF:-1,Discovery Channel Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/190
-#EXTINF:-1,Discovery ID Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/34385
-#EXTINF:-1,Science Vie Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/184
-#EXTINF:-1,Yaban Tv Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/53839
-#EXTINF:-1,Kitchen Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/215
-#EXTINF:-1,TRT Belgesel Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/105
-#EXTINF:-1,Animaux Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/166
-#EXTINF:-1,History Channel Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/67
-#EXTINF:-1,Dmax Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/129
-#EXTINF:-1,Chasse et Pêche Tv Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/51082
-#EXTINF:-1,Bbc Earth Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/102
-#EXTINF:-1,On 4 Tv
-http://nx4545.xyz:80/mert924bn/231020.ft/21490
-#EXTINF:-1,Da Vinci Learning Fhd
-http://nx4545.xyz:80/mert924bn/231020.ft/22007
-#EXTINF:-1,Insight Tv Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/70025
+#EXTINF:-1,Uygur News
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1831156978.m3u8
 
 #EXTINF:-1,-------------- | COCUK | --------------
 http://nx4545.xyz:80/mert924bn/231020.ft/273
@@ -996,12 +1158,16 @@ http://nx4545.xyz:80/mert924bn/231020.ft/65453
 
 #EXTINF:-1,-------------- | MUZIK | --------------
 http://nx4545.xyz:80/mert924bn/231020.ft/65059
-#EXTINF:-1,TRT Muzik Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/98
+#EXTINF:-1,Slow Karadeniz TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1,VRT_FM 
+https://is.gd/pmdmO7/VRT_FM.m3u8
+#EXTINF:-1,Slow Karadeniz FM 
+https://dinle.slowkaradenizfm.com:9578/
+#EXTINF:-1,Karadeniz Türk 
+ https://radyo.yayin.com.tr:6134/;
 #EXTINF:-1,Kral Pop Muzik
 http://nx4545.xyz:80/mert924bn/231020.ft/67694
-#EXTINF:-1,Kral Tv Hd
-http://nx4545.xyz:80/mert924bn/231020.ft/67073
 #EXTINF:-1,DreamTurk Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/132
 #EXTINF:-1,Tatlises Tv Hd
@@ -1043,108 +1209,83 @@ http://nx4545.xyz:80/mert924bn/231020.ft/64679
 #EXTINF:-1,Duck Tv Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/65500
 
-#EXTINF:-1,giresun fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65630
-#EXTINF:-1,genc radio konya
-http://nx4545.xyz:80/mert924bn/231020.ft/65631
-#EXTINF:-1,gebze fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65632
-#EXTINF:-1,gaziantep  radio kilim
-http://nx4545.xyz:80/mert924bn/231020.ft/65633
-#EXTINF:-1,fm 23
-http://nx4545.xyz:80/mert924bn/231020.ft/65635
-#EXTINF:-1,erzurum imaj fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65651
-#EXTINF:-1,erzincan radio  tek
-http://nx4545.xyz:80/mert924bn/231020.ft/65652
-#EXTINF:-1,erzincan radio dost
-http://nx4545.xyz:80/mert924bn/231020.ft/65653
-#EXTINF:-1,erzinca radio 2000
-http://nx4545.xyz:80/mert924bn/231020.ft/65654
-#EXTINF:-1,enderun fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65657
-#EXTINF:-1,elbistan radio umut
-http://nx4545.xyz:80/mert924bn/231020.ft/65658
-#EXTINF:-1,elazig radio pazar
-http://nx4545.xyz:80/mert924bn/231020.ft/65659
-#EXTINF:-1,elazig radiosu 2000
-http://nx4545.xyz:80/mert924bn/231020.ft/65660
-#EXTINF:-1,ekin radio
-http://nx4545.xyz:80/mert924bn/231020.ft/65662
-#EXTINF:-1,dost fm ankara
-http://nx4545.xyz:80/mert924bn/231020.ft/65668
-#EXTINF:-1,diyarbakir dogan 21 fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65669
-#EXTINF:-1,dinamo fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65671
-#EXTINF:-1,derya fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65672
-#EXTINF:-1,denizli bizim iller radio
-http://nx4545.xyz:80/mert924bn/231020.ft/65674
-#EXTINF:-1,dem radio
-http://nx4545.xyz:80/mert924bn/231020.ft/65675
-#EXTINF:-1,damla fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65677
-#EXTINF:-1,damar  fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65679
-#EXTINF:-1,bursa fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65693
-#EXTINF:-1,brt bayrak turk muzigi
-http://nx4545.xyz:80/mert924bn/231020.ft/65695
-#EXTINF:-1,brt bayrak radiosu
-http://nx4545.xyz:80/mert924bn/231020.ft/65696
-#EXTINF:-1,brt bayrak radio  haber
-http://nx4545.xyz:80/mert924bn/231020.ft/65697
-#EXTINF:-1,brt bayrak klasik
-http://nx4545.xyz:80/mert924bn/231020.ft/65698
-#EXTINF:-1,brt bayrak int
-http://nx4545.xyz:80/mert924bn/231020.ft/65699
-#EXTINF:-1,brt bayrak fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65700
-#EXTINF:-1,borusan klasik
-http://nx4545.xyz:80/mert924bn/231020.ft/65702
-#EXTINF:-1,bodrum fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65704
-#EXTINF:-1,bilecik fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65710
-#EXTINF:-1,babyjoy2
-http://nx4545.xyz:80/mert924bn/231020.ft/65720
-#EXTINF:-1,ask fm 2
-http://nx4545.xyz:80/mert924bn/231020.ft/65724
-#EXTINF:-1,arabeskin sesi fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65728
-#EXTINF:-1,arabesk radio biz
-http://nx4545.xyz:80/mert924bn/231020.ft/65730
-#EXTINF:-1,arabesk melodi fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65731
-#EXTINF:-1,arabesk fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65732
-#EXTINF:-1,arabesk alemi2
-http://nx4545.xyz:80/mert924bn/231020.ft/65733
-#EXTINF:-1,antakya radio renk
-http://nx4545.xyz:80/mert924bn/231020.ft/65735
-#EXTINF:-1,aksehir dogan fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65741
-#EXTINF:-1,aksamustu sohbetleri2
-http://nx4545.xyz:80/mert924bn/231020.ft/65743
-#EXTINF:-1,akra fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65747
-#EXTINF:-1,afyon radio 03
-http://nx4545.xyz:80/mert924bn/231020.ft/65748
-#EXTINF:-1,afyon armoni fm
-http://nx4545.xyz:80/mert924bn/231020.ft/65750
-#EXTINF:-1,ADiYAMAN MERT FM
-http://nx4545.xyz:80/mert924bn/231020.ft/65751
-#EXTINF:-1,ADIYAMAN ASR FM
-http://nx4545.xyz:80/mert924bn/231020.ft/65752
-#EXTINF:-1,adana fm arabesk
-http://nx4545.xyz:80/mert924bn/231020.ft/65754
-#EXTINF:-1,YALVAC FM
-http://nx4545.xyz:80/mert924bn/231020.ft/65757
 
 #EXTINF:-1,-------------- | YEREL | --------------
 http://nx4545.xyz:80/mert924bn/231020.ft/269
+-----------FİLM----------
 
+#EXTINF:-1, Mumya
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya1.mp4/index.m3u8
+
+#EXTINF:-1, Mumya 2: Mumya Geri Dönüyor
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya2.mp4/index.m3u8
+
+#EXTINF:-1, Mumya 3: Ejder İmparatoru\'nun Mezarı
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya3.mp4/index.m3u8
+
+
+ #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
+https://cors.deno.dev/http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8| User-Agent=Lavf53.32.100  
+
+#EXTINF:-1,ÇÖZÜM YAPI TV
+http://157.230.106.252:3496/hybrid/play.m3u8
+
+#EXTINF:-1,ON6 TV
+https://h125.artiyerelmedya.net/kanal16/bant1/chunks.m3u8
+
+#EXTINF:-1,TELE 1 HD
+http://31.223.85.34:9999/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/teve2.png " group-title="| TR | ULUSAL",|TR| TEVE 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/109969
+
+#EXTINF:1,Metropol Tv
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
+
+#EXTINF:1,KENT TÜRK
+https://h92.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8
+
+#EXTINF:1,kanal A
+https://h125.artiyerelmedya.net/tva/bant1/chunks.m3u8
+
+XTINF:-1,AKSU TV
+http://31.223.85.34:9999/play/a06u/index.m3u8
+
+#EXTINF:1,kanal V
+https://h92.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
+
+EXTINF:-1,ANADOLU DERNEK TV
+http://31.223.85.34:9999/play/a065/index.m3u8
+
+#EXTINF:1,DÜNYA TÜRK
+https://h59.artiyerelmedya.net/worldturk/bant1/chunks.m3u8
+
+#EXTINF:1,URFANATİK
+https://h125.artiyerelmedya.net/urfanatiktv/bant1/chunks.m3u8
+
+#EXTINF:1,kanal 3
+https://h92.artiyerelmedya.net/kanal3/bant1/chunks.m3u8
+
+#EXTINF:1, TV4 HD TR
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:1, TV41
+https://h125.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+
+#EXTINF:0,SUN TV
+https://h125.artiyerelmedya.net/sunrtv/bant1/chunks.m3u8
+
+#EXTINF:0,TON TV
+https://h125.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+
+#EXTINF:0,OLAY TÜRK
+https://h59.artiyerelmedya.net/olayturk/bant1/chunks.m3u8
+
+#EXTINF:0,kanal Z
+https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
+
+#EXTINF:1,KANAL 6tv
+https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
 #EXTINF:-1,Trek Hd
 http://nx4545.xyz:80/mert924bn/231020.ft/23375
 #EXTINF:-1,Kibris Genc Tv Hd
@@ -66113,7 +66254,7 @@ http://nx4545.xyz:80/series/mert924bn/231020.ft/138145.mp4
 #EXTINF:-1,	The One That Got Away S01 E10
 http://nx4545.xyz:80/series/mert924bn/231020.ft/138146.mp4
 
-RUS XLL
+-----------RUS XLL----------------------------
 
 #EXTINF:-1 ,Танцовщицы Go Go
 https://video1.tizam.cc/old_films/PussyAGoGo.mp4
@@ -66221,7 +66362,7 @@ https://video2.tizam.cc/files/1529504/pornoshik_18___aletta.mp4
 https://video1.tizam.cc/old_films/MaximumPerversum40Extrem%20Pervers.mp4
 
 
--------------------------------------------------------------------------
+---------------------------------ADULTXXX----------------------------------------
 #EXTINF:-1,ADULTXXX: Alexis 18Yoga
 http://3ffs3436hg.trm2023.xyz:8080/movie/frk3387/frk.3387/117668.mp4
 #EXTINF:-1,ADULTXXX: Alexis Crystal 18Yoga
@@ -67588,3 +67729,104 @@ http://185.236.229.31:9981/play/a03o
 http://185.236.229.31:9981/play/a03d
 #EXTINF:-1,Dorcel TV HD
 http://185.236.229.31:9981/play/a03c
+
+-------------RADYO LAR--------------------
+
+#EXTINF:-1,giresun fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65630
+#EXTINF:-1,genc radio konya
+http://nx4545.xyz:80/mert924bn/231020.ft/65631
+#EXTINF:-1,gebze fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65632
+#EXTINF:-1,gaziantep  radio kilim
+http://nx4545.xyz:80/mert924bn/231020.ft/65633
+#EXTINF:-1,fm 23
+http://nx4545.xyz:80/mert924bn/231020.ft/65635
+#EXTINF:-1,erzurum imaj fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65651
+#EXTINF:-1,erzincan radio  tek
+http://nx4545.xyz:80/mert924bn/231020.ft/65652
+#EXTINF:-1,erzincan radio dost
+http://nx4545.xyz:80/mert924bn/231020.ft/65653
+#EXTINF:-1,erzinca radio 2000
+http://nx4545.xyz:80/mert924bn/231020.ft/65654
+#EXTINF:-1,enderun fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65657
+#EXTINF:-1,elbistan radio umut
+http://nx4545.xyz:80/mert924bn/231020.ft/65658
+#EXTINF:-1,elazig radio pazar
+http://nx4545.xyz:80/mert924bn/231020.ft/65659
+#EXTINF:-1,elazig radiosu 2000
+http://nx4545.xyz:80/mert924bn/231020.ft/65660
+#EXTINF:-1,ekin radio
+http://nx4545.xyz:80/mert924bn/231020.ft/65662
+#EXTINF:-1,dost fm ankara
+http://nx4545.xyz:80/mert924bn/231020.ft/65668
+#EXTINF:-1,diyarbakir dogan 21 fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65669
+#EXTINF:-1,dinamo fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65671
+#EXTINF:-1,derya fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65672
+#EXTINF:-1,denizli bizim iller radio
+http://nx4545.xyz:80/mert924bn/231020.ft/65674
+#EXTINF:-1,dem radio
+http://nx4545.xyz:80/mert924bn/231020.ft/65675
+#EXTINF:-1,damla fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65677
+#EXTINF:-1,damar  fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65679
+#EXTINF:-1,bursa fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65693
+#EXTINF:-1,brt bayrak turk muzigi
+http://nx4545.xyz:80/mert924bn/231020.ft/65695
+#EXTINF:-1,brt bayrak radiosu
+http://nx4545.xyz:80/mert924bn/231020.ft/65696
+#EXTINF:-1,brt bayrak radio  haber
+http://nx4545.xyz:80/mert924bn/231020.ft/65697
+#EXTINF:-1,brt bayrak klasik
+http://nx4545.xyz:80/mert924bn/231020.ft/65698
+#EXTINF:-1,brt bayrak int
+http://nx4545.xyz:80/mert924bn/231020.ft/65699
+#EXTINF:-1,brt bayrak fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65700
+#EXTINF:-1,borusan klasik
+http://nx4545.xyz:80/mert924bn/231020.ft/65702
+#EXTINF:-1,bodrum fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65704
+#EXTINF:-1,bilecik fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65710
+#EXTINF:-1,babyjoy2
+http://nx4545.xyz:80/mert924bn/231020.ft/65720
+#EXTINF:-1,ask fm 2
+http://nx4545.xyz:80/mert924bn/231020.ft/65724
+#EXTINF:-1,arabeskin sesi fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65728
+#EXTINF:-1,arabesk radio biz
+http://nx4545.xyz:80/mert924bn/231020.ft/65730
+#EXTINF:-1,arabesk melodi fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65731
+#EXTINF:-1,arabesk fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65732
+#EXTINF:-1,arabesk alemi2
+http://nx4545.xyz:80/mert924bn/231020.ft/65733
+#EXTINF:-1,antakya radio renk
+http://nx4545.xyz:80/mert924bn/231020.ft/65735
+#EXTINF:-1,aksehir dogan fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65741
+#EXTINF:-1,aksamustu sohbetleri2
+http://nx4545.xyz:80/mert924bn/231020.ft/65743
+#EXTINF:-1,akra fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65747
+#EXTINF:-1,afyon radio 03
+http://nx4545.xyz:80/mert924bn/231020.ft/65748
+#EXTINF:-1,afyon armoni fm
+http://nx4545.xyz:80/mert924bn/231020.ft/65750
+#EXTINF:-1,ADiYAMAN MERT FM
+http://nx4545.xyz:80/mert924bn/231020.ft/65751
+#EXTINF:-1,ADIYAMAN ASR FM
+http://nx4545.xyz:80/mert924bn/231020.ft/65752
+#EXTINF:-1,adana fm arabesk
+http://nx4545.xyz:80/mert924bn/231020.ft/65754
+#EXTINF:-1,YALVAC FM
+http://nx4545.xyz:80/mert924bn/231020.ft/65757
