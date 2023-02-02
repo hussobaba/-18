@@ -46,8 +46,9 @@ https://is.gd/d1T8gY.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
 https://is.gd/daUbT5.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER RADYO
-https://is.gd/9OyPPS/TEBER_RADYO.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",BİR ABDAL TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
+ 
  
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
@@ -61,9 +62,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:1, YANSIMA KLASİK TV
 https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
 
-#EXTINF:852,DOĞU TV
-https://umt02.videobulut.com/35/3811/fppfAsns7Vbn/fppfAsns7Vbn.m3u8
-
 #EXTINF:351,FİL TV
 https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
 
@@ -76,11 +74,6 @@ https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
 #EXTINF:355,FILM CLUB AKSİYON 
 https://umt02.videobulut.com/35/3811/dp7893us5bAh/dp7893us5bAh.m3u8
 
-#EXTINF:356,FILM CLUB KOMEDİ
-https://umt02.videobulut.com/1/3811/RXEsE1nTwVd5/RXEsE1nTwVd5.m3u8
-
-#EXTINF:356,FILM CLUB FAMILY
-https://umt02.videobulut.com/1/3811/9Edss8dRhbh9/9Edss8dRhbh9.m3u8
 
 #EXTINF:-1,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
