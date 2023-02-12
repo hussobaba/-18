@@ -55,9 +55,6 @@ https://is.gd/C5SvQJ/teleontv.m3u8
 #EXTINF:1, CINE1 TV
 https://is.gd/8nnZlr/cıne1.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
-https://bit.ly/406KoxS
-
 #EXTINF:1, YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
@@ -79,43 +76,6 @@ https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
 #EXTINF:355,FILM CLUB AKSİYON 
 https://umt02.videobulut.com/35/3811/dp7893us5bAh/dp7893us5bAh.m3u8
 
-#EXTINF:-1,KEMAL SUNAL 1
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124133
-#EXTINF:-1,KEMAL SUNAL 2
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124134
-#EXTINF:-1,KEMAL SUNAL 4
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124135
-#EXTINF:-1,KEMAL SUNAL 5
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124136
-#EXTINF:-1,KEMAL SUNAL 6
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124137
-#EXTINF:-1,KEMAL SUNAL 7
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124138
-#EXTINF:-1,KEMAL SUNAL 8
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124139
-#EXTINF:-1,YESILCAM DINAMIK
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124141
-#EXTINF:-1,SENER SEN TV FILMBOX
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124142
-#EXTINF:-1,SMARTBLU SAVAS HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124165
-#EXTINF:-1,SMARTBLU KORKU HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124166
-#EXTINF:-1,SMARTTBLU OSCAR HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124167
-#EXTINF:-1,SMARTBLU KOMEDI HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124168
-#EXTINF:-1,SMARTBLU MARVELS HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124170
-#EXTINF:-1,SMARTBLU MACERA HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124171
-#EXTINF:-1,SMARTBLU VAHSI BATI HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124172
-#EXTINF:-1,SMARTBLU ROMANTIK HD
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124173
-#EXTINF:-1,SMARTBLU BILIM KURGU
-http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124174
-
 #EXTINF:-1,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
@@ -127,6 +87,28 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:1,TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",ŞABAN TV
+https://bit.ly/406KoxS
+
+#EXTINF:-1,KEMAL SUNAL 1
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124133
+
+#EXTINF:-1,KEMAL SUNAL 2
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124134
+
+#EXTINF:-1,KEMAL SUNAL 4
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124135
+
+#EXTINF:-1,KEMAL SUNAL 5
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124136
+
+#EXTINF:-1,KEMAL SUNAL 6
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124137
+
+#EXTINF:-1,YESILCAM DINAMIK TV
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124142
+-
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="HABER",TELE 1 ᴴᴰ
 https://cors.deno.dev/https://tele1.blutv.com/blutv_tele1_live/live.m3u8| User-Agent=Lavf53.32.100    
