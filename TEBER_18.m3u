@@ -224,10 +224,7 @@ https://cors.deno.dev/https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8| User-Agent=Lavf53.32.100  
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
-http://185.234.217.19:8038/play/a019
-#http://31.223.85.34:9999/play/a06d/index.m3u8
-#https://bit.ly/3P7NnBm?/chunklist.m3u8
-#http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&quality=720p
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&m3u8
 
 #EXTINF:-1,KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
