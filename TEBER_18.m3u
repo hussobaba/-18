@@ -50,11 +50,60 @@ https://is.gd/daUbT5.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
  
  
-#EXTINF:1,TELE ON 4K
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
+https://cors.deno.dev/https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
-https://bit.ly/406KoxS
+#EXTINF:0 type="stream" channelId="2970" group-title="1_ULUSAL_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png", TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+
+#EXTINF:0 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT 4K
+http://3ffs3436hg.trm2023.xyz:8080/frk3387/frk.3387/123887
+
+#EXTINF:0 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1, TiVi 6 HD
+https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
+https://cors.deno.dev/https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1,KANAL 7 AVRUPA FHD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
+https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.33:10001
+https://cors.deno.dev/https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8ᴴᴰ⁺
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin&m3u8
+
+
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
+https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
+#http://31.223.85.34:9999/play/a07d/index.m3u8#http://195.142.1.211:4002/udp/224.2.2.34:10001#
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001260/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001260&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR1 
+https://is.gd/d1T8gY.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR2
+https://is.gd/FtjRhm/1ABDALtv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
+https://is.gd/daUbT5.m3u8
+
+#EXTINF:-1,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+
+#EXTINF:-1,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:1, YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
@@ -92,6 +141,126 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:1,TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
+#EXTINF:1, TELE ON
+https://is.gd/C5SvQJ/teleontv.m3u8
+
+#EXTINF:1, EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
+#EXTINF:1,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:1, CINE1 TV
+https://is.gd/8nnZlr/cıne1.m3u8
+
+#EXTINF:-1,tiviTÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:351,FİL TV
+https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
+
+#EXTINF:352,FİLMAX
+https://umt02.videobulut.com/1/3811/wX1Zs5npRVfn/wX1Zs5npRVfn.m3u8
+
+#EXTINF:354,FILM CLUB
+https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",ŞABAN TV
+https://bit.ly/406KoxS
+
+#EXTINF:-1,KEMAL SUNAL 1
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124133
+
+#EXTINF:-1,KEMAL SUNAL 2
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124134
+
+#EXTINF:-1,KEMAL SUNAL 4
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124135
+
+#EXTINF:-1,KEMAL SUNAL 5
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124136
+
+#EXTINF:-1,KEMAL SUNAL 6
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124137
+
+#EXTINF:-1,YESILCAM DINAMIK TV
+http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124142
+
+#EXTINF:-1,NTV
+https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.2:10001
+#https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#http://31.223.85.34:9999/play/a05s/index.m3u8
+#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9066_NTV_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="HABER",TELE 1 ᴴᴰ
+https://cors.deno.dev/https://tele1.blutv.com/blutv_tele1_live/live.m3u8| User-Agent=Lavf53.32.100    
+
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᴴᴰ
+https://cors.deno.dev/https://krt.blutv.com/blutv_krt_live/live.m3u8| User-Agent=Lavf53.32.100 
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᴴᴰ⁺
+https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.10:10001
+#http://31.177.62.182:8006/play/s16
+#https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9107_CNN_Turk_HD/playlist.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="HABER",TV100 ᴴᴰ⁺
+https://cors.deno.dev/https://tv100.blutv.com/blutv_tv100_live/live.m3u8| User-Agent=Lavf53.32.100        
+#http://31.223.85.34:9999/play/a08c/index.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001259/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001259&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᴴᴰ⁺
+https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8| User-Agent=Lavf53.32.100    
+#http://31.223.85.34:9999/play/a08z/index.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001252/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001252&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᴴᴰ⁺
+https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.20:10001
+#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001016/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001016&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#http://135.125.234.9:8081/ahaber/tracks-v1a1/mono.m3u8| User-Agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᴴᴰ⁺
+https://cors.deno.dev/https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001013/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001013&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.57:10001/index.m3u8
+
+
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺
+https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8| User-Agent=Lavf53.32.100        
+#http://31.177.62.182:8010/play/s19
+#http://185.234.217.19:8038/play/a015
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001304/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001304&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
+https://cors.deno.dev/https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TvNetHd/playlist.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001262/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001262&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᴴᴰ⁺
+https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.45:10001
+#https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8| User-Agent=Lavf53.32.100       
+#http://31.223.85.34:9999/play/a081/index.m3u8
+#https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="HABER",HABER TURK ᴴᴰ⁺
+https://cors.deno.dev/https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9148_Haberturk_HD/playlist.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001171/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001171&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0,FLASH HABER TV HD
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,FLASH HABER HD
+http://31.223.85.34:9999/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="TGRT_HABER.tr" tvg-name="TGRT_HABER.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" en-boy oranı="16:9" group-title="ULUSAL",TGRT HABER  
+https://is.gd/Ydh7Jd/tgrt_haber.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
+https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.73:10001
+#https://cors.deno.dev/https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" en-boy oranı="16:9" group-title="ULUSAL",TGRT EU  
 https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8| User-Agent=Lavf53.32.100
 
@@ -100,7 +269,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-ya
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?
 #http://185.234.217.19:8038/play/a02r
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="ULUSAL" ,ATV ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.19:10001
@@ -119,7 +287,6 @@ https://cors.deno.dev/http://185.53.88.85:8008/a/willene/live/2909049078.ts?n=1&
 #http://185.53.88.85:8008/a/willene/live/2909049078.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 #http://135.125.234.9:8081/atvavrupa/tracks-v1a1/mono.m3u8| User-Agent=Lavf53.32.100
 
-
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺
 https://cors.deno.dev/https://startv.blutv.com/blutv_startv_live/live.m3u8
 #http://195.155.98.170:5858/play/a09z
@@ -129,10 +296,8 @@ https://cors.deno.dev/https://startv.blutv.com/blutv_startv_live/live.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.1:10001
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
 https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8| User-Agent=Lavf53.32.100  
-
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
 https://cors.deno.dev/https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -167,6 +332,15 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 ---------------YEREL SİNEMA KANALLARI----------------
 
+#EXTINF:-1, Mumya
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya1.mp4/index.m3u8
+
+#EXTINF:-1, Mumya 2: Mumya Geri Dönüyor
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya2.mp4/index.m3u8
+
+#EXTINF:-1, Mumya 3: Ejder İmparatoru\'nun Mezarı
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya3.mp4/index.m3u8
+
 #EXTINF:-1,BİR TV HD
 https://h59.artiyerelmedya.net/birtv/bant1/chunks.m3u8
 
@@ -179,8 +353,6 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:1, ADA TV NET HD
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:1, BEYAZ TV FHD
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 
 #EXTINF:1, BEYAZ SİNEMA HD
 http://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
@@ -326,9 +498,6 @@ https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 #EXTINF:-1,G.Olay Tv 
 https://waw2.artiyerelmedya.net/olaytv/bant1/playlist.m3u8
 
-#EXTINF:-1,VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-
 #EXTINF:-1,Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 
@@ -360,21 +529,9 @@ https://bit.ly/3RjqKL9
 https://bit.ly/3XJVM14
  
 #EXTINF:-1,KARDEŞ TV 
-http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
+http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8 
 
------------FİLM----------
-
-#EXTINF:-1, Mumya
-https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya1.mp4/index.m3u8
-
-#EXTINF:-1, Mumya 2: Mumya Geri Dönüyor
-https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya2.mp4/index.m3u8
-
-#EXTINF:-1, Mumya 3: Ejder İmparatoru\'nun Mezarı
-https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya3.mp4/index.m3u8
-
-
- #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
 https://cors.deno.dev/http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8| User-Agent=Lavf53.32.100  
 
 #EXTINF:-1,ÇÖZÜM YAPI TV
