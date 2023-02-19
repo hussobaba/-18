@@ -1,0 +1,109 @@
+--------TEBER STAR1-------------------------------------
+#EXTINF:0, TEBER STAR LİNK1 OYNATMA
+https://live-server-2.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
+https://is.gd/d1T8gY.m3u8
+
+------TEBER STAR1---------------ANAHDAR-------------------------
+
+NAME; TEBER STAR LİNK1 ANAHDAR
+RTMP SERVER;rtmp://live-server-2.splitstream.io/static
+ANAHDAR  KEY;
+2eb3728e-cbaa-4af6-a51f-40dc6b580431
+
+
+------------------TEBER STAR2--------BELGESEL----------------------------
+NAME;TEBER STAR2
+#EXTINF:0 type="stream" channelId="-1" group="TBRT_iPTV_KANALLAR", TEBER STAR2
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+
+https://is.gd/daUbT5.m3u8
+
+---------------TEBER STAR2----------------------------ANAHDAR----------------------------------------
+
+RTMP SERVER;rtmp://live-server-2.splitstream.io/static
+ANAHDAR:  KEY;0c5cf555-a6cb-4559-8450-cd08b99803af
+
+
+------------------TEBER ON---------------------------
+
+NAME;TEBER ON OYNATMA: #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel",TEBER ON 
+https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+
+https://is.gd/NtehMn/teberon.m3u8
+
+------------------TTEBER ON------SERVER--------------------------------
+RTMP SERVER:rtmp://live-server-2.splitstream.io/static
+
+ANAHDAR:fe992241-c5b5-464d-a0b6-b9aa254d5ff6
+
+
+--------------------TEBER DEM-----------------------------------------
+
+
+#EXTINF:0,TEBER DEM OYNATMA
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+
+https://is.gd/daUbT5.m3u8
+
+-----TEBER DEM-------------------------------------
+
+NAME; TEBER DEM ANAHDAR
+RTMP SERVER;rtmp://live-server-2.splitstream.io/static
+ANAHDAR  KEY;f97854bd-6c00-40d3-b9a2-e85f95a4f94f
+
+
+
+----------------------TEBER BOŞ---------------------------------------------
+
+
+AŞAĞIDAKİ YAYINLAR BOŞ KANAL
+
+
+-------NAME;TEBER STAR6-------DİZİ------------------------
+
+
+NAME;TEBER STAR6 İMEİL LİNGİ
+RTMP SERVER;rtmp://live-server-2.splitstream.io/static
+ANAHDAR  KEY;2ae3bf08-20eb-4dcb-83ea-38d1088180e7
+
+satılmış TEBER STAR6
+#EXTINF:0 type="stream" channelId="-1" group="HÇRT_iPTV_KANALLAR",TEBER STAR2
+https://live-server-2.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+
+
+
+-------------TEBER BOŞ ---LİNGİ-------------
+
+NAME; TEBER BOŞ ANAHDAR
+
+ANAHDAR:
+rtmp://live-server-2.splitstream.io/static
+KEY:34e279a9-6153-4e38-b25e-7cfe9f7abee5
+
+#EXTINF:0,TEBER BOŞ  OYNATMA
+
+TEBER BOŞ-
+#EXTINF:0 type="stream" channelId="-1" group="HÇRT_iPTV_KANALLAR",TEBER ON TV
+https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5
+/tracks-v1a1/mono.m3u8
+
+
+---BİR ABDAL TV----------------------------------------
+
+BİR ABDAL TV
+https://live-server-2.splitstream.io/533fbcc5-019f-4e49-96b8-25bbbd412af2/tracks-v1a1/mono.m3u8
+
+BİR ABDAL TV
+RTMP SERVER;rtmp://live-server-2.splitstream.io/static
+ANAHDAR  KEY;533fbcc5-019f-4e49-96b8-25bbbd412af2
+
+
+
+
+
+
+
+
+
+                                                                                                                                     
