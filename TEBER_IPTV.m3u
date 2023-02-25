@@ -52,8 +52,8 @@ https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
 https://is.gd/daUbT5.m3u8
 
-#EXTINF:1, DEM TV İNT
-https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
+#EXTINF:-1,DEM TV int
+http://77.68.121.3/hls/stream.m3u8
 
 #EXTINF:-1,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
@@ -70,8 +70,12 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:1, YANSIMA KLASİK TV
 https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,AKILLI TV
+http://149.62.177.140:8000/play/a00y/index.m3u8
+
 #EXTINF:1, EM TV
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
 #EXTINF:1, ZAZA TV
 http://149.62.177.140:8000/play/a00o/index.m3u8
 
@@ -165,17 +169,11 @@ http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:-1,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:1, EM TV
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:1, KAÇKAR TV
+http://149.62.177.140:8000/play/a00g/index.m3u8
 
-#EXTINF:-1,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:1, EM TV
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-
-#EXTINF:1,TV48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:-1,ANADOLU D.TV
+http://149.62.177.140:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
