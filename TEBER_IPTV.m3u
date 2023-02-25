@@ -21,8 +21,8 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
-https://cors.deno.dev/https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
 
 #EXTINF:-1,KANAL 7 AVRUPA FHD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -100,7 +100,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-ya
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="ULUSAL" ,ATV ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.19:10001
+https://59c7ea6bec1c6.streamlock.net/filboxlive/atv.stream/playlist.m3u8
 http://195.142.1.211:4002/udp/224.2.2.19:10001
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTIETZ6gzmgSLCw== &RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -114,7 +114,7 @@ http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
 http://pro.eurogold.xyz:8080/wTW5DZa9Rg/RgMJ2quaAM/94094
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺
-https://cors.deno.dev/https://startv.blutv.com/blutv_startv_live/live.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #http://195.155.98.170:5858/play/a09z
 #http://195.142.1.211:4022/udp/224.2.2.1:10001
 #http://31.223.85.34:9999/play/a05r/index.m3u8
@@ -125,7 +125,7 @@ https://cors.deno.dev/https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
 https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8| User-Agent=Lavf53.32.100  
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
-https://cors.deno.dev/https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+http://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF: 997 tvg-logo="http://i.ibb.co/DGgyxKd/EUROSTAR.png" group-title="AVRUPA", EUROSTAR
@@ -141,7 +141,7 @@ http://185.234.217.19:8038/play/a019
 #http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&quality=720p
 
 #EXTINF:-1,KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #http://mdn.mvp.tivibu.com.tr:80/TTG/LIVE/shls/LIVE$KANAL_D_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
 
 #EXTINF:-1,TR: EURO D
