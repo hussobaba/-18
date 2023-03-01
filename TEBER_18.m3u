@@ -132,8 +132,8 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:35,TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-36,tiviTÜRK 
-https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:1"tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC
+http://nx4545.xyz:80/suleymansenol/suleyman.49/118378
 
 #EXTINF:37 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/82cb5fa5-3f14-4740-a091-c2056fe43e1b.png" group-title= "YEREL KANALLAR", Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
