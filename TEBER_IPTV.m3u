@@ -56,6 +56,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:17, YANSIMA KLASİK TV
 https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
 
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3deef4f3-88e1-42ca-b8e8-325ebbe8bcb8.png" group-title="Özel",Beyaz Medya Yeşilçam
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+
 #EXTINF:-18,AKILLI TV
 http://149.62.177.140:8000/play/a00y/index.m3u8
 

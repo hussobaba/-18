@@ -56,6 +56,9 @@ https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 #EXTINF: 23 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="AVRUPA", TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3deef4f3-88e1-42ca-b8e8-325ebbe8bcb8.png" group-title="Özel",Beyaz Medya Yeşilçam
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+
 #EXTINF:-18,AKILLI TV
 http://149.62.177.140:8000/play/a00y/index.m3u8
 
