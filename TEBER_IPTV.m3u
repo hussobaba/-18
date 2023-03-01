@@ -44,6 +44,9 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:-14,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
+#EXTINF:15,CANKIRI 18 TV
+https://yayin1.canlitv.day/canlitv/cankiritv.stream/chunklist_w1932416798.m3u8?hash=fb69107d492474596fdd3d024083d4d7
+
 #EXTINF:15,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
