@@ -32,6 +32,9 @@ http://iptvh.it/t.on
 #EXTINF:11 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
 http://iptvh.it/t.dem
 
+#EXTINF:0 type="stream" channelId="-1" group="HÇRT_iPTV_KANALLAR",TEBER HBB
+http://iptvh.it/T.HBB
+
 #EXTINF:-12,VRT HD
 http://iptvh.it/vrt.hd
 
