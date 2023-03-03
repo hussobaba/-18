@@ -36,6 +36,9 @@ http://iptvh.it/t.dem
 #EXTINF:-12,VRT HD
 http://iptvh.it/vrt.hd
 
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lk6CFm8AySI9Vc7YVVmyxYXMcTCYSxzBN8hDl0mFWW0BvcW-iBGs-f-3b45oGn52WIzkYdgAxFk-og57Dp-8GTt5H8kA5GmMIwkAqq4OM0QPvFZz838ZYDPc60zeWUorxLNZlc1gkolVPx2XtMHFH04KV6IGTYmQF6q6vAqNhjtdXjydyTS8BxXvOQ/w193-h46/TELEON.PNG", TELEON TV HD
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
+
 #EXTINF:-13,DEM TV int
 http://77.68.121.3/hls/stream.m3u8
 
