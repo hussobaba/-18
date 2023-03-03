@@ -42,8 +42,8 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:-14,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
-#EXTINF: 77 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC
-https://live.dgn.net.tr/uludag/pghyqzhyzs/chunklist.m3u8
+#EXTINF: 77 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD YEDEK
 http://135.125.234.9:8081/tele1/index.m3u8
