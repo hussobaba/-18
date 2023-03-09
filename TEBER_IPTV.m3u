@@ -1,3 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:2 type="stream" channelId="2970" group-title="1_ULUSAL_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png", TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+
+#EXTINF:3 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-0,TR4K: TRT 4K UHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/17550.ts
+
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+
+#EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
+#https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+
+#EXTINF:-6,KANAL 7 AVRUPA FHD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR1 
+http://iptvh.it/T.star1
+
 #EXTINF:8 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR2
 http://iptvh.it/t.star2
 
