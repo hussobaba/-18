@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
 #EXTINF:2 type="stream" channelId="2970" group-title="1_ULUSAL_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png", TRT 2 FHD
 http://167.114.115.233:8080/trt2fhd/index.m3u8
@@ -19,21 +19,20 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
 #https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-
 #EXTINF:-6,KANAL 7 AVRUPA FHD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR1 
-http://iptvh.it/T.star1
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
 #EXTINF:8 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR2
-http://iptvh.it/t.star2
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 
 #EXTINF:9 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
-http://iptvh.it/Teber_DEM
+https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON TV
-http://iptvh.it/t.on
+https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
 
 #EXTINF:11 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lk6CFm8AySI9Vc7YVVmyxYXMcTCYSxzBN8hDl0mFWW0BvcW-iBGs-f-3b45oGn52WIzkYdgAxFk-og57Dp-8GTt5H8kA5GmMIwkAqq4OM0QPvFZz838ZYDPc60zeWUorxLNZlc1gkolVPx2XtMHFH04KV6IGTYmQF6q6vAqNhjtdXjydyTS8BxXvOQ/w193-h46/TELEON.PNG", TELEON TV HD
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
