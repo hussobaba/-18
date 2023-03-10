@@ -643,12 +643,404 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0 type="stream" channelId="4632" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4632", SHOWMAX HD
 http://134.122.73.67:25461/live/elit_supersat1/ulusalstream/6.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD
-http://157.230.106.252:3923/hybrid/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD YDK
-http://157.230.106.252:3923/stream/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130",SİNEMAX TV
-https://film.ozelip.com:3344/stream/play.m3u8
+
+-------------SPOR------------------------------------
+
+#EXTINF:-1,TR  | TRT SPOR YILDIZ 4K
+http://zappmax.dynu.com:80/zapp4/toyou/41288
+#EXTINF:-1,TR |  GS TV HD
+http://zappmax.dynu.com:80/zapp4/toyou/41287
+#EXTINF:-1,TR: GS TV HD
+http://zappmax.dynu.com:80/zapp4/toyou/276
+#EXTINF:-1,TR: BJK TV HD
+http://zappmax.dynu.com:80/zapp4/toyou/275
+#EXTINF:-1,TR | A SPOR UHD
+http://zappmax.dynu.com:80/zapp4/toyou/41284
+#EXTINF:-1,TR | SMART SPOR 4K
+http://zappmax.dynu.com:80/zapp4/toyou/41286
+#EXTINF:-1,TR | SMART SPOR UHD
+http://zappmax.dynu.com:80/zapp4/toyou/41285
+#EXTINF:-1,TR | VIP S SPOR 2 4K
+http://zappmax.dynu.com:80/zapp4/toyou/41283
+#EXTINF:-1,TR | VIP S-SPORT
+http://zappmax.dynu.com:80/zapp4/toyou/41282
+#EXTINF:-1,TR |  EXXSPORTS Vip 1 HD | Mac Vakti
+http://zappmax.dynu.com:80/zapp4/toyou/45546
+#EXTINF:-1,TR |  EXXSPORTS Vip 1 YEDEK
+http://zappmax.dynu.com:80/zapp4/toyou/45547
+#EXTINF:-1,TR | EXXSPOR 1 UHD
+http://zappmax.dynu.com:80/zapp4/toyou/45548
+#EXTINF:-1,TR | EXXSPORT 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45549
+#EXTINF:-1,TR |  EXXSPORTS Vip 2 HD | Mac Vakti
+http://zappmax.dynu.com:80/zapp4/toyou/45550
+#EXTINF:-1,TR | EXXSPOR 2 UHD
+http://zappmax.dynu.com:80/zapp4/toyou/45551
+#EXTINF:-1,TR | EXXSPORT 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45552
+#EXTINF:-1,TR |  EXXSPORTS Vip 3 HD | Mac Vakti
+http://zappmax.dynu.com:80/zapp4/toyou/45553
+#EXTINF:-1,TR | EXXSPOR 3 UHD
+http://zappmax.dynu.com:80/zapp4/toyou/45554
+#EXTINF:-1,TR | EXXSPORT 3 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45555
+#EXTINF:-1,TR | ExxSpor 1
+http://zappmax.dynu.com:80/zapp4/toyou/45556
+#EXTINF:-1,TR | ExxSpor 2
+http://zappmax.dynu.com:80/zapp4/toyou/45557
+#EXTINF:-1,TR | ExxSpor 3
+http://zappmax.dynu.com:80/zapp4/toyou/45558
+#EXTINF:-1,TR | EXXSPORT 4 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45559
+#EXTINF:-1,TR | ExxSpor 4
+http://zappmax.dynu.com:80/zapp4/toyou/45560
+#EXTINF:-1,TR | EXXSPOR 4 FHD [ONLY LIVE]
+http://zappmax.dynu.com:80/zapp4/toyou/45561
+#EXTINF:-1,TR: EXXEN SPORT 4 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45562
+#EXTINF:-1,TR | EXXSPORT 5 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45563
+#EXTINF:-1,TR | ExxSpor 5
+http://zappmax.dynu.com:80/zapp4/toyou/45564
+#EXTINF:-1,TR | EXXSPOR 5 FHD [ONLY LIVE]
+http://zappmax.dynu.com:80/zapp4/toyou/45565
+#EXTINF:-1,TR | EXXEN SPORT 5 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45566
+#EXTINF:-1,TR | EXXEN SPORT 6 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45567
+#EXTINF:-1,TR | ExxSpor 6
+http://zappmax.dynu.com:80/zapp4/toyou/45568
+#EXTINF:-1,TR | EXXSPOR 6 FHD [ONLY LIVE]
+http://zappmax.dynu.com:80/zapp4/toyou/45569
+#EXTINF:-1,TR | EXXEN SPORT 7 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45570
+#EXTINF:-1,TR | EXXEN SPORT 8 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45571
+#EXTINF:-1,TR | EXXSPORTS 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45572
+#EXTINF:-1,TR | EXXSPORTS 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45573
+#EXTINF:-1,TR | EXXSPORTS 3 HD
+http://zappmax.dynu.com:80/zapp4/toyou/45574
+#EXTINF:-1,TR | BEIN SPORTS HD 1 K4
+http://zappmax.dynu.com:80/zapp4/toyou/46066
+#EXTINF:-1,TR | beIN SPORTS 4 HD 1920/1080P LOCAL
+http://zappmax.dynu.com:80/zapp4/toyou/46071
+#EXTINF:-1,TR | BEIN SPORTS HD 1 1280/720 P
+http://zappmax.dynu.com:80/zapp4/toyou/46072
+#EXTINF:-1,TR | BEIN SPORTS HD 2 1280/720 P
+http://zappmax.dynu.com:80/zapp4/toyou/46073
+#EXTINF:-1,TR | BEIN SPORTS HD 3 1280/720 P
+http://zappmax.dynu.com:80/zapp4/toyou/46074
+#EXTINF:-1,TR | BEIN SPORTS HD 4 1280/720 P
+http://zappmax.dynu.com:80/zapp4/toyou/46075
+#EXTINF:-1,TR | BEIN SPORTS 1 FHD 1920/1080i
+http://zappmax.dynu.com:80/zapp4/toyou/46076
+#EXTINF:-1,TR | BEIN SPORTS 2 FHD 1920/1080i
+http://zappmax.dynu.com:80/zapp4/toyou/46077
+#EXTINF:-1,TR | BEIN SPORTS 3 FHD 1920/1080i
+http://zappmax.dynu.com:80/zapp4/toyou/46078
+#EXTINF:-1,TR | BEIN SPORTS 4 FHD 1920/1080i
+http://zappmax.dynu.com:80/zapp4/toyou/46079
+#EXTINF:-1,TR | BEIN SPORTS 1 HD LOCAL 1920/1080
+http://zappmax.dynu.com:80/zapp4/toyou/46080
+#EXTINF:-1,TR | BEIN SPORTS 2 HD LOCAL 1920/1080
+http://zappmax.dynu.com:80/zapp4/toyou/46081
+#EXTINF:-1,TR | BEIN SPORTS 3 HD LOCAL 1920/1080
+http://zappmax.dynu.com:80/zapp4/toyou/46082
+#EXTINF:-1,TR | BEIN SPORTS 4 HD LOCAL 1920/1080
+http://zappmax.dynu.com:80/zapp4/toyou/46083
+#EXTINF:-1,TR:SADECE SUPER LIG 1 MACLARI
+http://zappmax.dynu.com:80/zapp4/toyou/46084
+#EXTINF:-1,TR | bein sport 2 sadece turk ligi
+http://zappmax.dynu.com:80/zapp4/toyou/46085
+#EXTINF:-1,TR | Lig TV 1 K4
+http://zappmax.dynu.com:80/zapp4/toyou/46086
+#EXTINF:-1,TR | Lig TV 2 K4
+http://zappmax.dynu.com:80/zapp4/toyou/46087
+#EXTINF:-1,TR | LIG TV 3 K4
+http://zappmax.dynu.com:80/zapp4/toyou/46088
+#EXTINF:-1,TR | BEIN SPORTS MAX 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/46089
+#EXTINF:-1,TR | BEIN SPORTS MAX 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/46090
+#EXTINF:-1,TR | BEIN SPORTS HABER HEVC
+http://zappmax.dynu.com:80/zapp4/toyou/46091
+#EXTINF:-1,TR | BEIN SPORTS HABER HD
+http://zappmax.dynu.com:80/zapp4/toyou/46092
+#EXTINF:-1,TR | XC DRAGON SPORTS FEED (MAC ZAMANI)
+http://zappmax.dynu.com:80/zapp4/toyou/46093
+#EXTINF:-1,TR | BEIN SPORTS 1 HEVC
+http://zappmax.dynu.com:80/zapp4/toyou/46094
+#EXTINF:-1,TR | BEIN SPORTS 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/46095
+#EXTINF:-1,TR | BEIN SPORTS 1 MOBILE
+http://zappmax.dynu.com:80/zapp4/toyou/46096
+#EXTINF:-1,TR | BEIN SPORTS 1 TTNET
+http://zappmax.dynu.com:80/zapp4/toyou/46097
+#EXTINF:-1,TR | BEIN SPORTS 2 HEVC
+http://zappmax.dynu.com:80/zapp4/toyou/46098
+#EXTINF:-1,TR | BEIN SPORTS 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/46099
+#EXTINF:-1,TR | BEIN SPORTS 3 HD
+http://zappmax.dynu.com:80/zapp4/toyou/46100
+#EXTINF:-1,TR | BEIN SPORTS 4 HD
+http://zappmax.dynu.com:80/zapp4/toyou/46101
+#EXTINF:-1,TR | VIP SMART SPOR
+http://zappmax.dynu.com:80/zapp4/toyou/2074
+#EXTINF:-1,TR | VIP TIVIBU SPOR 1
+http://zappmax.dynu.com:80/zapp4/toyou/2073
+#EXTINF:-1,TR | VIP TIVIBU SPOR 2
+http://zappmax.dynu.com:80/zapp4/toyou/2072
+#EXTINF:-1,TR | VIP TIVIBU SPOR 3
+http://zappmax.dynu.com:80/zapp4/toyou/2071
+#EXTINF:-1,TR | Smart Spor  4K
+http://zappmax.dynu.com:80/zapp4/toyou/291
+#EXTINF:-1,TR | SSPORT 4K
+http://zappmax.dynu.com:80/zapp4/toyou/290
+#EXTINF:-1,TR | TIVIBUSPOR 4K
+http://zappmax.dynu.com:80/zapp4/toyou/289
+#EXTINF:-1,TR | TIVIBUSPOR 2 4K
+http://zappmax.dynu.com:80/zapp4/toyou/288
+#EXTINF:-1,TR | TIVIBUSPOR 3 4K
+http://zappmax.dynu.com:80/zapp4/toyou/287
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/286
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/285
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://zappmax.dynu.com:80/zapp4/toyou/284
+#EXTINF:-1,TR | TIVIBU VIP 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/283
+#EXTINF:-1,TR | TIVIBU VIP 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/282
+#EXTINF:-1,TR | SMART SPOR 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/281
+#EXTINF:-1,TR | SMART SPOR 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/280
+#EXTINF:-1,TR | EURO SPORT 1 HD
+http://zappmax.dynu.com:80/zapp4/toyou/279
+#EXTINF:-1,TR | EURO SPORT 2 HD
+http://zappmax.dynu.com:80/zapp4/toyou/278
+#EXTINF:-1,TR | TRT SPOR 4K
+http://zappmax.dynu.com:80/zapp4/toyou/277
+#EXTINF:-1,TR |  FB TV HD
+http://zappmax.dynu.com:80/zapp4/toyou/274
+#EXTINF:-1,TR | GS TV
+http://zappmax.dynu.com:80/zapp4/toyou/273
+#EXTINF:-1,TR | A SPOR 4K
+http://zappmax.dynu.com:80/zapp4/toyou/272
+#EXTINF:-1,TR | SPORTS TV
+http://zappmax.dynu.com:80/zapp4/toyou/271
+#EXTINF:-1,TR | TJK TV
+http://zappmax.dynu.com:80/zapp4/toyou/270
+#EXTINF:-1,TR | TRT SPOR HD
+http://zappmax.dynu.com:80/zapp4/toyou/269
+-------------BELGESEL---------------------
+
+#EXTINF:-1,TR | ANiMAL PLANET HD
+http://zappmax.dynu.com:80/zapp4/toyou/29037
+#EXTINF:-1,TR | BBC Earth HD
+http://zappmax.dynu.com:80/zapp4/toyou/29036
+#EXTINF:-1,TR | BEIN GURME HD
+http://zappmax.dynu.com:80/zapp4/toyou/29035
+#EXTINF:-1,TR | DiSCOVERY CHANNEL HD
+http://zappmax.dynu.com:80/zapp4/toyou/29034
+#EXTINF:-1,TR | DiSCOWERY SCiENCE HD
+http://zappmax.dynu.com:80/zapp4/toyou/29032
+#EXTINF:-1,TR | DMAX HD
+http://zappmax.dynu.com:80/zapp4/toyou/29031
+#EXTINF:-1,TR | HISTORY HD
+http://zappmax.dynu.com:80/zapp4/toyou/29030
+#EXTINF:-1,TR | NAT GEO WILD HD
+http://zappmax.dynu.com:80/zapp4/toyou/29029
+#EXTINF:-1,TR | NATIONAL GEOGRAPHIC HD
+http://zappmax.dynu.com:80/zapp4/toyou/29027
+#EXTINF:-1,TR | TRT BELGESEL HD
+http://zappmax.dynu.com:80/zapp4/toyou/29026
+#EXTINF:-1,TR | YABAN TV HD
+http://zappmax.dynu.com:80/zapp4/toyou/29025
+
+----------------SİNEMA------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 1 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 1 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 2 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 2 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 3 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 3 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 4 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 4 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 5 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 5 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 6 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 6 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 7 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 7 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 8 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 8 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 9 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 9 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 10 Ultra Hd" tvg-logo="https://kanallogo2.com/images/sinema/sinema-aksiyon-ultra.png" group-title="Sinema",Sinema Aksiyon 10 Ultra Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Loca 1 Hd" tvg-logo="https://kanallogo2.com/images/sinema/loca-1.png" group-title="Sinema",Loca 1 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Loca 2 Hd" tvg-logo="https://kanallogo2.com/images/sinema/loca-2.png" group-title="Sinema",Loca 2 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Loca 3 Hd" tvg-logo="https://kanallogo2.com/images/sinema/loca-3.png" group-title="Sinema",Loca 3 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Komedi Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Komedi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Romantik Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Romantik Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Aile Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Aile Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Aksiyon Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Aksiyon Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Suc Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Suc Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Korku Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Korku Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Bilim Kurgu Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Bilim Kurgu Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Dram Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Dram Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Gizem Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Gizem Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Yerli Korku Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Yerli Korku Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Yerli Dram Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Yerli Dram Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Yerli Romantik Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Yerli Romantik Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Yerli Aile Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Yerli Aile Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Yerli Macera Hd" tvg-logo="https://kanallogo2.com/images/sinema/vip-channel-yerli-macera.png" group-title="Sinema",Vip Channel Yerli Macera Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 1" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 1
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 2" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 2
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 3" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 3
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 4" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 4
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 5" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 5
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 6" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 6
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 7" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 7
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 8" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 8
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 9" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 9
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema 10" tvg-logo="https://kanallogo2.com/images/sinema/4k-sinema.png" group-title="Sinema",4K Sinema 10
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 1 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 1 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 2 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 2 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 3 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 3 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 4 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 4 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 5 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 5 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 6 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 6 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 7 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 7 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 8 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 8 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 9 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 9 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 10 Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam 10 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam Aksiyon Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-aksiyon.png" group-title="Sinema",Yesilcam Aksiyon Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam Komedi" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam Komedi
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam Romantik Tv" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam-komedi.png" group-title="Sinema",Yesilcam Romantik Tv
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Tv Hd" tvg-logo="https://kanallogo2.com/images/sinema/kemal-sunal.png" group-title="Sinema",Kemal Sunal Tv Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Tv 2 Hd" tvg-logo="https://kanallogo2.com/images/sinema/kemal-sunal.png" group-title="Sinema",Kemal Sunal Tv 2 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Tv 3 Hd" tvg-logo="https://kanallogo2.com/images/sinema/kemal-sunal.png" group-title="Sinema",Kemal Sunal Tv 3 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Tv 4 Hd" tvg-logo="https://kanallogo2.com/images/sinema/kemal-sunal.png" group-title="Sinema",Kemal Sunal Tv 4 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Tv 5 Hd" tvg-logo="https://kanallogo2.com/images/sinema/kemal-sunal.png" group-title="Sinema",Kemal Sunal Tv 5 Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sinifi Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/hababam-sinifi.png" group-title="Sinema",Hababam Sinifi Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tarik Akan Tv" tvg-logo="https://kanallogo2.com/images/sinema/tarik-akan.png" group-title="Sinema",Tarik Akan Tv
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sener Sen Tv Hd" tvg-logo="https://kanallogo2.com/images/sinema/sener-sen.png" group-title="Sinema",Sener Sen Tv Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fatma Girik Tv" tvg-logo="https://kanallogo2.com/images/sinema/fatma-girik.png" group-title="Sinema",Fatma Girik Tv
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turkan Soray Tv" tvg-logo="https://kanallogo2.com/images/sinema/turkan-soray.png" group-title="Sinema",Turkan Soray Tv
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Restarasyonlu Turk Filmleri Hd" tvg-logo="https://kanallogo2.com/images/sinema/yesilcam.png" group-title="Sinema",Restarasyonlu Turk Filmleri Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zeki Metin Tv" tvg-logo="https://kanallogo2.com/images/sinema/zeki-metin.png" group-title="Sinema",Zeki Metin Tv
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferdi Tayfur Tv" tvg-logo="https://kanallogo2.com/images/sinema/ferdi-tayfur.png" group-title="Sinema",Ferdi Tayfur Tv
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tarkan Filmleri Hd" tvg-logo="https://kanallogo2.com/images/sinema/tarkan-filmleri.png" group-title="Sinema",Tarkan Filmleri Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV+ Turkcell" tvg-logo="https://kanallogo2.com/images/sinema/tv-plus-turkcell.png" group-title="Sinema",TV+ Turkcell
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Buzdevri Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/buz-devri.png" group-title="Sinema",Buzdevri Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asteriks Ve Oburiks Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/asteriks-ve-oburiks.png" group-title="Sinema",Asteriks Ve Oburiks Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kovboy Tv Hd" tvg-logo="https://kanallogo2.com/images/sinema/kovboy.png" group-title="Sinema",Kovboy Tv Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/bruce-lee.png" group-title="Sinema",Bruce Lee Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/hannibal-serisi.png" group-title="Sinema",Hannibal Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hayalet Avcilari Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/hayalet-avcilari.png" group-title="Sinema",Hayalet Avcilari Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Police Academy Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/police-academy.png" group-title="Sinema",Police Academy Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karayip Korsanlari Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/karayip-korsanlari.png" group-title="Sinema",Karayip Korsanlari Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X Men Serisi Hd" tvg-logo="https://kanallogo2.com/images/sinema/x-men.png" group-title="Sinema",X Men Serisi Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Transformers Seri Hd" tvg-logo="https://kanallogo2.com/images/sinema/transformes.png" group-title="Sinema",Transformers Seri Hd
+http://vadi61.com:80/live/kalender07/5Uc3gL9naw/21979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SiNEMA ACTION HD" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemaaction.png" group-title="Sinema",SiNEMA ACTION HD
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4967
+#EXTINF:-1 tvg-id="" tvg-name="SiNEMA KOMEDI HD" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemakomedi.png" group-title="Sinema",SiNEMA KOMEDI HD
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4968
+#EXTINF:-1 tvg-id="" tvg-name="SiNEMA GOLD HD" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemagold.png" group-title="Sinema",SiNEMA GOLD HD
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4969
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 1" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemakemalsunal.png" group-title="Sinema",KEMAL SUNAL 1
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4970
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 2" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemakemalsunal1.png" group-title="Sinema",KEMAL SUNAL 2
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4971
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 3" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemakemalsunal2.png" group-title="Sinema",KEMAL SUNAL 3
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4972
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD" tvg-logo="http://picon.webhop.net/logo/turkeyT/slsinemapremium.png" group-title="Sinema",PREMIUM HD
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4973
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TURK HD" tvg-logo="http://picon.webhop.net/logo/turkeyT//slsinematurk.png" group-title="Sinema",SINEMA TURK HD
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4974
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM 1" tvg-logo="http://picon.webhop.net/logo/turkeyT/sltv_yesilcam1.png" group-title="Sinema",YESILCAM 1
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4975
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM 2" tvg-logo="http://picon.webhop.net/logo/turkeyT/sltv_yesilcam2.png" group-title="Sinema",YESILCAM 2
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4976
+#EXTINF:-1 tvg-id="" tvg-name="SiNEMA TV YERLi" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHQaVGv76rMtA/company-logo_200_200/0/1531231888819?e=2159024400&v=beta&t=RXTXZPFNy_HjN-8O678xDTgLlYwnWdoWQ7GVeGSfMfo" group-title="Sinema",SiNEMA TV YERLi
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4161
+#EXTINF:-1 tvg-id="" tvg-name="TURKUVAZ SiNEMA" tvg-logo="http://service.turkuvaziptv.com/cinema/vod/logolar/TURKUVAZ.png" group-title="Sinema",TURKUVAZ SiNEMA
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/5243
+#EXTINF:-1 tvg-id="" tvg-name="ViZYON SiNEMA KOMEDi" tvg-logo="" group-title="Sinema",ViZYON SiNEMA KOMEDi
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/8244
+#EXTINF:-1 tvg-id="" tvg-name="SLTV YESiLCAM" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHQaVGv76rMtA/company-logo_200_200/0/1531231888819?e=2159024400&v=beta&t=RXTXZPFNy_HjN-8O678xDTgLlYwnWdoWQ7GVeGSfMfo" group-title="SiNEMA",SLTV YESiLCAM
+http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/8254
 
 -------------YEREL-----------------------------------
 
