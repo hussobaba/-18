@@ -10,7 +10,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
 
-#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT4 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 
@@ -638,47 +638,35 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 http://134.122.73.67:25461/live/elit_supersat1/ulusalstream/6.m3u8
 
 ------------SİNEMA-----------------------
-#EXTINF:-1,beIN SERIES Comedy HD TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/19659
+
 #EXTINF:-1,beIN SERIES Vice HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/19662
-#EXTINF:-1,beIN SERIES Drama HD TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/19660
 #EXTINF:-1,beIN SERIES Sci-Fi HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/19661
-#EXTINF:-1,beIN BOX OFFICE 1 TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/12772
 #EXTINF:-1,beIN BOX OFFICE 2 HD TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/12771
-#EXTINF:-1,beIN BOX OFFICE 3 HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/12770
-#EXTINF:-1,beIN MOVIES Turk TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/16292
 #EXTINF:-1,beIN MOVIES Action TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/12767
-#EXTINF:-1,beIN MOVIES Family TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/12760
 #EXTINF:-1,beIN MOVIES Premier TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/12769
-#EXTINF:-1,beIN MOVIES Stars TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/12768
-#EXTINF:-1,beIN GURME TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/16293
 #EXTINF:-1,beIN İZ TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/16294
 
 -------------SPOR------------------------------------
 
-#EXTINF:-1,beIN SPORTS 5 HD TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/115205
 #EXTINF:-1,beIN SPORTS 1 HD TR
-http://45.12.1.14:80/BlIm21564/agf7Fp264/15719
+http://45.12.1.14:80/BlIm21564/agf7Fp264/17739
 #EXTINF:-1,beIN SPORTS 2 HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/15943
 #EXTINF:-1,beIN SPORTS 3 HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/6414
 #EXTINF:-1,beIN SPORTS 4 HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/15722
+#EXTINF:-1,beIN SPORTS 5 HD TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/115205
+
+------------SPORTS FHD-------------------- 
+
 #EXTINF:-1,beIN SPORTS 1 FHD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/17739
 #EXTINF:-1,beIN SPORTS 2 FHD TR
@@ -687,6 +675,8 @@ http://45.12.1.14:80/BlIm21564/agf7Fp264/17740
 http://45.12.1.14:80/BlIm21564/agf7Fp264/17741
 #EXTINF:-1,beIN SPORTS 4 FHD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/19038
+#EXTINF:-1,beIN SPORTS 5 FHD TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/115205
 #EXTINF:-1,beIN SPORTS MAX 1 HD TR
 http://45.12.1.14:80/BlIm21564/agf7Fp264/15723
 #EXTINF:-1,beIN SPORTS MAX 2 HD TR
@@ -4449,8 +4439,7 @@ http://sochi.camera:8080/cam_108/index.m3u8?token=null
 http://sochi.camera:8080/cam_105/index.m3u8?token=null
 #EXTINF:0 type="stream" channelId="-1" group-title="38_CANLI_KAMERALAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", RUSYA SOCHi Gagarin Kargo Alani
 http://sochi.camera:8080/cam_106/index.m3u8?token=null
-#EXTINF:0 type="stream" channelId="-1" group-title="NELERYENi_MART_2023" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", NELER YENiLENDi
-http://134.122.73.67:25461/live/elit_supersat2/ozeliptvstream/41.m3u8
+
 
 
 ---TEBER---XXL-----
