@@ -8,7 +8,10 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:3 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT4 AVAZ
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 
@@ -16,26 +19,33 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
 #https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
+
 #EXTINF:-6,KANAL 7 AVRUPA FHD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR1 
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+http://iptvh.it/T.star1
 
 #EXTINF:8 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR2
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+http://iptvh.it/t.star2
 
 #EXTINF:9 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
-https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+http://iptvh.it/Teber_DEM
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON TV
-https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+http://iptvh.it/t.on
 
 #EXTINF:11 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lk6CFm8AySI9Vc7YVVmyxYXMcTCYSxzBN8hDl0mFWW0BvcW-iBGs-f-3b45oGn52WIzkYdgAxFk-og57Dp-8GTt5H8kA5GmMIwkAqq4OM0QPvFZz838ZYDPc60zeWUorxLNZlc1gkolVPx2XtMHFH04KV6IGTYmQF6q6vAqNhjtdXjydyTS8BxXvOQ/w193-h46/TELEON.PNG", TELEON TV HD
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
 
 #EXTINF:-12,VRT HD
 http://iptvh.it/vrt.hd
+
+#EXTINF:25 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png", M TURK TV
+http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 
 #EXTINF:-13,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
@@ -44,9 +54,6 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 http://tv86905.radyotelekomtv.com:22808/hacibektastv/hacibektastv/sec-f5-v1-a1.m3u8
 #EXTINF: 23 tvg-logo=/İLKGÜN_TV.png" group-title="EHLİBEYT",İLK GÜN TV
 https://bit.ly/3y5WuL8
-
-#EXTINF:-15,DEM TV int
-http://77.68.121.3/hls/stream.m3u8
 
 #EXTINF: 16 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC TV
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
@@ -75,8 +82,7 @@ http://91.134.203.253:30124/karadeniz/karadeniz/sec-f5-v1-a1.m3u8
 #EXTINF:24 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEIRhIdevHQ_dWxDHDe_87JyX7MHh1XqBQ9GzjtC6XBSbxk3Z9uzAAEopCY9Sxljp-karj8Ybs8KesYGrhEjm0sPc5lRxofWbvLee5u4y9KPJimdga8i062kBMBF-mbcUYDlljhwzNDU58jmHw0N2V7qeMmvGN__wHYMjdw3piiJLbEorcIpEt9jwuQ/w152-h36/karap%C4%B1nartv.jpg", KARAPINAR MEDYA TV
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
 
-#EXTINF:25 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png", MUGLA TURK TV
-http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
+
 
 #EXTINF:26, YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
@@ -87,9 +93,6 @@ https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 #EXTINF: 28 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="AVRUPA", TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 
-#EXTINF:-29,AKILLI TV
-http://149.62.177.140:8000/play/a00y/index.m3u8
-
 #EXTINF:30, EM TV
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 
@@ -97,7 +100,7 @@ http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:32, CINE1 TV
-https://is.gd/8nnZlr/cıne1.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
@@ -164,11 +167,9 @@ https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
 
 #EXTINF:50 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7d49b2d4-aab5-48f4-b3d6-928f40a2288f.png" group-title= "YEREL KANALLAR",Bartın TV
 http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
-#EXTINF:51 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD
-http://157.230.106.252:3923/hybrid/play.m3u8
-#EXTINF:52 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD YEDEK
-http://157.230.106.252:3923/stream/play.m3u8
 
+#EXTINF:66 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f51367fd-8b8e-4012-8b51-da34b90ac9b9.png" group-title= "YEREL KANALLAR", Öncü TV
+https://broadcasttr.com:446/oncurtv/bant1/chunklist_w658442161.m3u8
 #EXTINF:56 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:57 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID FHD TR
@@ -191,10 +192,6 @@ http://149.62.177.140:8000/play/a00w/index.m3u8
 
 #EXTINF:65, ZAZA TV
 http://149.62.177.140:8000/play/a00o/index.m3u8
-#EXTINF:66 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f51367fd-8b8e-4012-8b51-da34b90ac9b9.png" group-title= "YEREL KANALLAR", Öncü TV
-https://broadcasttr.com:446/oncurtv/bant1/chunklist_w658442161.m3u8
-#EXTINF:67,TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF: 68 tvg-logo=/ATV.png" group-title="ULUSAL", ATV alanya
 https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
@@ -639,12 +636,21 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0 type="stream" channelId="4632" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4632", SHOWMAX HD
 http://134.122.73.67:25461/live/elit_supersat1/ulusalstream/6.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD
-http://157.230.106.252:3923/hybrid/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD YDK
-http://157.230.106.252:3923/stream/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130",SİNEMAX TV
-https://film.ozelip.com:3344/stream/play.m3u8
+
+------------SİNEMA-----------------------
+
+#EXTINF:-1,beIN SERIES Vice HD TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/19662
+#EXTINF:-1,beIN SERIES Sci-Fi HD TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/19661
+#EXTINF:-1,beIN BOX OFFICE 2 HD TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/12770
+#EXTINF:-1,beIN MOVIES Action TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/12767
+#EXTINF:-1,beIN MOVIES Premier TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/12769
+#EXTINF:-1,beIN İZ TR
+http://45.12.1.14:80/BlIm21564/agf7Fp264/16294
 
 -------------YEREL-----------------------------------
 
@@ -696,8 +702,6 @@ http://tv56245.ozelip.com:2052/isvicretv/isvicretv/supersatforum_chunklist.m3u8
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Ru9_WoG69Rt1MxoYaAmCQQbJwjhpyqwDaAhYMFmPqFBmhyOIJE-fTYmPJKg1tYfD9S-JCnmn8OusxfrEY2wS43ABRbqNuGgmBgfy2n0Ax7l7CfoKMRaDX1mV03H33Qmw5A6AriwIwWh1-0d5Gwo3_QFokl1BA-AxBoUUvJic_1bc9WMDIJqUiIXicA/s150/ntn2.png", NTN DiSCOVERY HD
 https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
-https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRKYIIKem0RHZy5AVHNALiv0rv9OrOfZ31zhF7Yv3V6pczfzleQeoCjGhOUv9TpN_YrfJq_kWePlZ6jEyDMI1F1EnC2Ysg7W63Uiib3J5BZC4r01FGj1yfM9VJr5SBFzW5tzN0RBJJi_tZqklzNDh4VubwkJjUOGflNIa1iHh23h8AXRZWg1vdccIuQ/w133-h34/rizetv.PNG", RiZE TURK TV HD
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="http://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png", SKY HABER TV HD
@@ -4509,6 +4513,285 @@ https://video2.tizam.cc/files/1529504/pornoshik_18___aletta.mp4
 https://video1.tizam.cc/old_films/MaximumPerversum40Extrem%20Pervers.mp4
 
 
+#EXTM3U
+#EXTINF:-1 ,Цветущая / (1990)
+https://video1.tizam.cc/films/cvetuwaya.mp4
+#EXTINF:-1 ,Даймонд Хед / (1974)
+https://video1.tizam.cc/films/dajmond_hed.mp4
+#EXTINF:-1 ,Как трахались в 50ых годах. Старое порно кино (1950)
+https://video1.tizam.cc/films/kak_trahalis_v_50yh_godah_staroe_porno_kino.mp4
+#EXTINF:-1 ,Сахарная вата / (1985)
+https://video1.tizam.cc/films/saharnaya_vata.mp4
+#EXTINF:-1 ,(1986) Шоколадные поцелуи
+https://video1.tizam.cc/films/shokoladnye_pocelui.mp4
+#EXTINF:-1 ,После Полудня
+https://video1.tizam.cc/films/posle_poludnya.mp4
+#EXTINF:-1 ,Девушка В Комнате 69 / (1994)
+https://video1.tizam.cc/films/devushka_v_komnate_69.mp4
+#EXTINF:-1 ,(1975) Демонстрация
+https://video1.tizam.cc/films/demonstraciya1975.mp4
+#EXTINF:-1 ,(1974) Триллинг Дриллинг
+https://video1.tizam.cc/films/trilling_drilling.mp4
+#EXTINF:-1 ,(1978) Простушка
+https://video1.tizam.cc/films/prostushka1978.mp4
+#EXTINF:-1 ,(1974) Энергичные Секретарши
+https://video1.tizam.cc/films/energichnye_sekretarshi.mp4
+#EXTINF:-1 ,(1979) Горячие Ракетки
+https://video1.tizam.cc/films/goryachie_raketki.mp4
+#EXTINF:-1 ,(1989) День Открытых Дверей
+https://video1.tizam.cc/films/den_otkrytyh_dverej.mp4
+#EXTINF:-1 ,Крики В Ночи (1990)
+https://video1.tizam.cc/films/kriki_v_nochi.mp4
+#EXTINF:-1 ,Доброе Утро Сайгон / (1988)
+https://video1.tizam.cc/films/good_morning_saigon.mp4
+#EXTINF:-1 ,(1978) Формально Фоссет
+https://video1.tizam.cc/films/formal_no_fosset.mp4
+#EXTINF:-1 ,(1972) За зеленой дверью
+https://video1.tizam.cc/films/za_zelenoj_dver_yu.mp4
+#EXTINF:-1 ,Адам и Ева: Девушки Которые Любят Это Делать
+https://video1.tizam.cc/films/adam_i_eva_devushki_kotorye_lyubyat_eto_delat.mp4
+#EXTINF:-1 ,Чувственный Половой Акт (1983)
+https://video1.tizam.cc/films/chuvstvennyj_polovoj_akt.mp4
+#EXTINF:-1 ,(1990) Искатели Удовольствия
+https://video1.tizam.cc/films/iskateli_udovol_stviya.mp4
+#EXTINF:-1 ,(1990) Дикая
+https://video1.tizam.cc/films/dikaya.mp4
+#EXTINF:-1 ,(1978) Массажный салон Эльвира
+https://video1.tizam.cc/films/massazhnyj_salon_el_vira.mp4
+#EXTINF:-1 ,(1987) Большой Взрыв
+https://video1.tizam.cc/films/bol_shoj_vzryv.mp4
+#EXTINF:-1 ,Легендарные Порнозвезды: Кейша / (1995)
+https://video1.tizam.cc/films/legendarnye_pornozvezdy_kejsha.mp4
+#EXTINF:-1 ,Частные Услуги Секретарши / (1980)
+https://video1.tizam.cc/films/chastnye_uslugi_cekretarshi.mp4
+#EXTINF:-1 ,(1980) F...И Весьма Много Его
+https://video1.tizam.cc/films/f_i_ves_ma_mnogo_ego.mp4
+#EXTINF:-1 ,(1990) Сексуальные Выходные 10
+https://video1.tizam.cc/films/seksual_nye_vyhodnye10.mp4
+#EXTINF:-1 ,(1975) Мерилин и Cенатор
+https://video1.tizam.cc/films/merilin_i_cenator.mp4
+#EXTINF:-1 ,(1986) Опущенные и Грязные в Беверли Хиллс
+https://video1.tizam.cc/films/opuwennye_i_gryaznye_v_beverli_hills.mp4
+#EXTINF:-1 ,(1986) Напуганный Брюстер
+https://video1.tizam.cc/films/napugannyj_bryuster.mp4
+#EXTINF:-1 ,(1987) Аморальная Мисс Тези
+https://video1.tizam.cc/films/amoral_naya_miss_tezi.mp4
+#EXTINF:-1 ,(1975) Большая Нагрузка
+https://video1.tizam.cc/films/bol_shaya_nagruzka.mp4
+#EXTINF:-1 ,(1993) Секс звезда
+https://video1.tizam.cc/films/seks_zvezda.mp4
+#EXTINF:-1 ,(1998) Невероятные первые сцены
+https://video1.tizam.cc/films/neveroyatnye_pervye_sceny.mp4
+#EXTINF:-1 ,Приблудные Кошки (1984)
+https://video1.tizam.cc/films/pribludnye_koshki.mp4
+#EXTINF:-1 ,(1985) Шауна: Мечта каждого мужчины
+https://video1.tizam.cc/films/shauna_mechta_kazhdogo_muzhchiny.mp4
+#EXTINF:-1 ,(1985) Животное Внутри Меня
+https://video1.tizam.cc/films/zhivotnoe_vnutri_menya.mp4
+#EXTINF:-1 ,(1983) Другие Желания Терезы
+https://video1.tizam.cc/films/drugie_zhelaniya_terezy.mp4
+#EXTINF:-1 ,(1984) Дом Удовольствия
+https://video1.tizam.cc/films/dom_udovol_stviya.mp4
+#EXTINF:-1 ,Это случилось в Голливуде. 1973
+https://video1.tizam.cc/films/eto_sluchilos_v_gollivude.mp4
+#EXTINF:-1 ,Горячая Кровь / (1985)
+https://video1.tizam.cc/films/HotBlooded.mp4
+#EXTINF:-1 ,Лав Чампионс / (1985)
+https://video1.tizam.cc/films/lav_champions.mp4
+
+#EXTM3U
+#EXTINF:-1,cdnii.com 91
+http://nvid101.cdnii.com/2019/0/20190551-720p.mp4
+#EXTINF:-1,cdnii.com 91-2
+http://nvid101.cdnii.com/2018/3/20183554-720p.mp4
+#EXTINF:-1,cdnii.com 92
+http://nvid101.cdnii.com/2018/3/20183509-720p.mp4
+#EXTINF:-1,cdnii.com 92-2
+http://nvid101.cdnii.com/2019/0/20190884-720p.mp4
+#EXTINF:-1,cdnii.com 93
+http://nvid101.cdnii.com/2019/0/20190852-720p.mp4
+#EXTINF:-1,cdnii.com 93-2
+http://nvid101.cdnii.com/2018/3/20183305-720p.mp4
+#EXTINF:-1,cdnii.com 94
+http://nvid101.cdnii.com/2019/0/20190994-720p.mp4
+#EXTINF:-1,cdnii.com 94-2
+http://nvid101.cdnii.com/2018/1/20181834-720p.mp4
+#EXTINF:-1,cdnii.com 95
+http://nvid101.cdnii.com/2019/0/20190592-720p.mp4
+#EXTINF:-1,cdnii.com 96
+http://nvid101.cdnii.com/2018/2/20182558-720p.mp4
+#EXTINF:-1,cdnii.com 96-2
+http://nvid101.cdnii.com/2018/2/20182900-720p.mp4
+#EXTINF:-1,cdnii.com 97
+http://nvid101.cdnii.com/2019/0/20190856-720p.mp4
+#EXTINF:-1,cdnii.com 97-2
+http://nvid101.cdnii.com/2019/0/20190269-720p.mp4
+#EXTINF:-1,cdnii.com 98
+http://nvid101.cdnii.com/2018/3/20183375-720p.mp4
+#EXTINF:-1,cdnii.com 98-2
+http://nvid101.cdnii.com/2018/3/20183191-720p.mp4
+#EXTINF:-1,cdnii.com 99
+http://nvid101.cdnii.com/2019/0/20190054-720p.mp4
+#EXTINF:-1,cdnii.com 99-2
+http://nvid101.cdnii.com/2018/2/20182535-720p.mp4
+#EXTINF:-1,cdnii.com 100
+http://nvid101.cdnii.com/2018/2/20182508-720p.mp4
+#EXTINF:-1,cdnii.com 101
+http://nvid101.cdnii.com/2018/2/20182935-720p.mp4
+#EXTINF:-1,cdnii.com 102
+http://nvid101.cdnii.com/2019/0/20190707-720p.mp4
+#EXTINF:-1,cdnii.com xxx1
+http://nvid101.cdnii.com/2018/1/20181384-720p.mp4
+#EXTINF:-1,cdnii.com xxx2
+http://nvid101.cdnii.com/2019/0/20190414-720p.mp4
+#EXTINF:-1,cdnii.com xxx3
+http://nvid101.cdnii.com/2018/3/20183023-720p.mp4
+#EXTINF:-1,cdnii.com xxx4
+http://nvid101.cdnii.com/2019/0/20190717-720p.mp4
+#EXTINF:-1,cdnii.com xxx5
+http://nvid101.cdnii.com/2019/0/20190470-720p.mp4
+#EXTINF:-1,cdnii.com xxx6
+http://nvid101.cdnii.com/2018/2/20182319-720p.mp4
+#EXTINF:-1,cdnii.com xxx7
+http://nvid101.cdnii.com/2018/0/20180314-720p.mp4
+#EXTINF:-1,cdnii.com xxx8
+http://nvid101.cdnii.com/2019/0/20190420-720p.mp4
+#EXTINF:-1,cdnii.com xxx9
+http://nvid101.cdnii.com/2018/0/20180372-720p.mp4
+#EXTINF:-1,cdnii.com xxx10
+http://nvid101.cdnii.com/2019/0/20190377-720p.mp4
+#EXTINF:-1,cdnii.com xxx11
+http://nvid101.cdnii.com/2525/252500311-720p.mp4
+#EXTINF:-1,cdnii.com xxx12
+http://nvid101.cdnii.com/2019/0/20190861-720p.mp4
+#EXTINF:-1,cdnii.com xxx13
+http://nvid101.cdnii.com/2018/0/20180585-720p.mp4
+#EXTINF:-1,cdnii.com xxx14
+http://nvid101.cdnii.com/2525/252500376-720p.mp4
+#EXTINF:-1,cdnii.com xxx15
+http://nvid101.cdnii.com/2018/2/20182028-720p.mp4
+#EXTINF:-1,cdnii.com xxx16
+http://nvid101.cdnii.com/2018/3/20183546-720p.mp4
+#EXTINF:-1,cdnii.com xxx17
+http://nvid101.cdnii.com/2019/0/20190659-720p.mp4
+#EXTINF:-1,cdnii.com xxx18
+http://nvid101.cdnii.com/2018/2/20182663-720p.mp4
+#EXTINF:-1,cdnii.com xxx19
+http://nvid101.cdnii.com/2018/2/20182353-720p.mp4
+#EXTINF:-1,cdnii.com xxx20
+http://nvid101.cdnii.com/2525/252500383-720p.mp4
+#EXTINF:-1,cdnii.com xxx21
+http://nvid101.cdnii.com/2019/1/20191019-720p.mp4
+#EXTINF:-1,cdnii.com xxx22
+http://nvid101.cdnii.com/2018/1/20181836-720p.mp4
+#EXTINF:-1,cdnii.com xxx23
+http://nvid101.cdnii.com/2018/2/20182938-720p.mp4
+
+#EXTM3U
+#EXTINF:-1,cdnii.com xxx25
+http://nvid101.cdnii.com/2018/3/20183114-720p.mp4
+#EXTINF:-1,cdnii.com xxx26
+http://nvid101.cdnii.com/2018/1/20181266-720p.mp4
+#EXTINF:-1,cdnii.com xxx27
+http://nvid101.cdnii.com/2019/0/20190200-720p.mp4
+#EXTINF:-1,cdnii.com xxx28
+http://nvid101.cdnii.com/2018/2/20182004-720p.mp4
+#EXTINF:-1,cdnii.com xxx29
+http://nvid101.cdnii.com/2019/0/20190863-720p.mp4
+#EXTINF:-1,cdnii.com xxx30
+http://nvid101.cdnii.com/2019/0/20190758-720p.mp4
+#EXTINF:-1,cdnii.com xxx31
+http://nvid101.cdnii.com/2018/0/20180999-720p.mp4
+#EXTINF:-1,cdnii.com xxx32
+http://nvid101.cdnii.com/2019/0/20190647-720p.mp4
+#EXTINF:-1,cdnii.com xxx33
+http://nvid101.cdnii.com/2019/0/20190879-720p.mp4
+#EXTINF:-1,cdnii.com xxx34
+http://nvid101.cdnii.com/2018/2/20182845-720p.mp4
+#EXTINF:-1,cdnii.com xxx35
+http://nvid101.cdnii.com/2018/0/20180735-720p.mp4
+#EXTINF:-1,cdnii.com xxx36
+http://nvid101.cdnii.com/2018/0/20180599-720p.mp4
+#EXTINF:-1,cdnii.com xxx37
+http://nvid101.cdnii.com/2018/3/20183722-720p.mp4
+#EXTINF:-1,cdnii.com xxx38
+http://nvid101.cdnii.com/2018/2/20182393-720p.mp4
+#EXTINF:-1,cdnii.com xxx39
+http://nvid101.cdnii.com/2525/252500205-720p.mp4
+#EXTINF:-1,cdnii.com xxx40
+http://nvid101.cdnii.com/2018/2/20182541-720p.mp4
+#EXTINF:-1,cdnii.com xxx42
+http://nvid101.cdnii.com/2018/2/20182292-720p.mp4
+#EXTINF:-1,cdnii.com xxx43
+http://nvid101.cdnii.com/2018/3/20183718-720p.mp4
+#EXTINF:-1,cdnii.com xxx44
+http://nvid101.cdnii.com/2019/1/20191038-720p.mp4
+#EXTINF:-1,cdnii.com xxx45
+http://nvid101.cdnii.com/2019/0/20190372-720p.mp4
+#EXTINF:-1,cdnii.com xxx46
+http://nvid101.cdnii.com/2525/252500323-720p.mp4
+#EXTINF:-1,cdnii.com xxx47
+http://nvid101.cdnii.com/2018/1/20181607-720p.mp4
+#EXTINF:-1,cdnii.com xxx48
+http://nvid101.cdnii.com/2019/0/20190765-720p.mp4
+#EXTINF:-1,cdnii.com xxx49
+http://nvid101.cdnii.com/2019/0/20190662-720p.mp4
+#EXTINF:-1,cdnii.com xxx50
+http://nvid101.cdnii.com/2019/0/20190655-720p.mp4
+#EXTINF:-1,cdnii.com xxx51
+http://nvid101.cdnii.com/2018/0/20180841-720p.mp4
+#EXTINF:-1,cdnii.com xxx52
+http://nvid101.cdnii.com/2019/1/20191002-720p.mp4
+#EXTINF:-1,cdnii.com xxx53
+http://nvid101.cdnii.com/2018/2/20182083-720p.mp4
+#EXTINF:-1,cdnii.com xxx54
+http://nvid101.cdnii.com/2018/2/20182115-720p.mp4
+#EXTINF:-1,cdnii.com xxx55
+http://nvid101.cdnii.com/2018/3/20183177-720p.mp4
+#EXTINF:-1,cdnii.com xxx56
+http://nvid101.cdnii.com/2018/3/20183569-720p.mp4
+#EXTINF:-1,cdnii.com xxx57
+http://nvid101.cdnii.com/2018/3/20183397-720p.mp4
+#EXTINF:-1,cdnii.com xxx58
+http://nvid101.cdnii.com/2019/0/20190875-720p.mp4
+#EXTINF:-1,cdnii.com xxx59
+http://nvid101.cdnii.com/2019/0/20190696-720p.mp4
+#EXTINF:-1,cdnii.com xxx60
+http://nvid101.cdnii.com/2018/0/20180855-720p.mp4
+#EXTINF:-1,cdnii.com xxx61
+http://nvid101.cdnii.com/2018/3/20183350-720p.mp4
+#EXTINF:-1,cdnii.com xxx62
+http://nvid101.cdnii.com/2019/0/20190675-720p.mp4
+#EXTINF:-1,cdnii.com xxx63
+http://nvid101.cdnii.com/2018/3/20183657-720p.mp4
+#EXTINF:-1,cdnii.com xxx64
+http://nvid101.cdnii.com/2019/0/20190931-720p.mp4
+#EXTINF:-1,cdnii.com xxx65
+http://nvid101.cdnii.com/2525/252500182-720p.mp4
+#EXTINF:-1,cdnii.com xxx66
+http://nvid101.cdnii.com/2019/0/20190566-720p.mp4
+#EXTINF:-1,cdnii.com xxx67
+http://nvid101.cdnii.com/2019/0/20190304-720p.mp4
+#EXTINF:-1,cdnii.com xxx68
+http://nvid101.cdnii.com/2019/0/20190270-720p.mp4
+#EXTINF:-1,cdnii.com xxx69
+http://nvid101.cdnii.com/2019/0/20190230-720p.mp4
+#EXTINF:-1,cdnii.com xxx70
+http://nvid101.cdnii.com/2019/1/20191025-720p.mp4
+#EXTINF:-1,cdnii.com xxx71
+http://nvid101.cdnii.com/2018/2/20182534-720p.mp4
+#EXTINF:-1,cdnii.com xxx72
+http://nvid101.cdnii.com/2019/0/20190703-720p.mp4
+#EXTINF:-1,cdnii.com xxx73
+http://nvid101.cdnii.com/2018/2/20182758-720p.mp4
+#EXTINF:-1,cdnii.com xxx74
+http://nvid101.cdnii.com/2018/2/20182348-720p.mp4
+#EXTINF:-1,cdnii.com xxx75
+http://nvid101.cdnii.com/2019/0/20190408-720p.mp4
+#EXTINF:-1,cdnii.com xxx76
+http://nvid101.cdnii.com/2019/0/20190838-720p.mp4
+#EXTINF:-1,cdnii.com xxx77
+http://nvid101.cdnii.com/2018/2/20182969-720p.mp4
 ---------------------------------ADULTXXX----------------------------------------
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="PORN" tvg-logo="https://cdn6.f-cdn.com/contestentries/1775376/7557584/5ed2172d673cf_thumb900.jpg" group-title="Adult",PORN
 http://nvid101.cdnii.com/2018/3/20183484-720p.mp4
@@ -5274,3 +5557,4 @@ http://45.12.1.14:80/movie/BlIm21564/agf7Fp264/53483.mkv
 http://45.12.1.14:80/movie/BlIm21564/agf7Fp264/53484.mkv
 #EXTINF:-1,Teachers Nylon Fetish [Adult-2019]
 http://45.12.1.14:80/movie/BlIm21564/agf7Fp264/53485.mkv
+
